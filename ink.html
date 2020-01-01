@@ -1,0 +1,32 @@
+---
+layout: default
+pagination:
+  enabled: false
+---
+<section class="post">
+  <div>
+    <div class="post__header section-padding">
+      <div class="grid">
+        <h2>Drink &amp; Ink Portfolio</h2>
+        <br>
+        <p>Projects, proposals, and prototypes for AS220 Drink &amp; Ink 2020.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- The main content area -->
+<div class="posts">
+  <div class="grid-xlarge">
+    <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
+
+      {% for post in site.inks %}
+
+        <!-- The tag below includes the markup for each post - partials/post-card.html -->
+        {% include post-card.html %}
+
+      {% endfor %}
+    </div>
+  </div>
+
+  {% include pagination.html %}
+</div>

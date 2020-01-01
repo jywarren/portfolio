@@ -7,10 +7,10 @@ google_analytics:
 name: Jeffrey Yoo Warren
 title: Jeffrey Yoo Warren
 description: >
-  Bnarber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+  The portfolio of Jeffrey Yoo Warren, an artist, community scientist, illustrator, and researcher.
 url: https://portfolio.unterbahn.com
 twitter_username: jywarren
-default_img: /assets/images/seo.jpg
+default_img: https://publiclab.org/system/images/photos/000/023/509/medium/IMG_20180207_135242.jpg
 social:
   - name: twitter
     url: https://twitter.com/jywarren
@@ -33,7 +33,7 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 # Author settings
 author:
   - name: Jeffrey Yoo Warren
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
+    bio: Jeffrey Yoo Warren is an artist, community scientist, illustrator, and researcher in Providence, Rhode Island.
     url: https://unterbahn.com
 
 # Pagination settings
@@ -60,6 +60,9 @@ autopages:
     slugify:
       mode: raw
       cased: true
+collections:
+  inks:
+    output: true
 
 # Build settings
 markdown: kramdown
