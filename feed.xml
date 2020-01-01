@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeffrey Yoo Warren</title>
-    <description>A portfolio of work by Jeffrey Yoo Warren
+    <description>The portfolio of Jeffrey Yoo Warren, an artist, community scientist, illustrator, and researcher.
 </description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Dec 2019 10:48:35 -0500</pubDate>
-    <lastBuildDate>Thu, 12 Dec 2019 10:48:35 -0500</lastBuildDate>
+    <pubDate>Wed, 01 Jan 2020 14:25:41 -0500</pubDate>
+    <lastBuildDate>Wed, 01 Jan 2020 14:25:41 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -35,7 +35,7 @@
     
       <item>
         <title>Papercraft spectrometer</title>
-        <description>&lt;p&gt;The Papercraft Spectrometer is a DIY kit which shifts the problem space of spectrometry into the realm of papercraft. I led the development of this kit as Director of Research at &lt;a href=&quot;https://publiclab.org/&quot;&gt;Public Lab&lt;/a&gt;, and an estimated 80,000 kits have been distributed around the world since it’s first version in 2012.&lt;/p&gt;
+        <description>&lt;p&gt;The Papercraft Spectrometer is a DIY kit which shifts the problem space of spectrometry into the realm of papercraft. I led the development of this kit as Director of Research at Public Lab, and an estimated 80,000 kits have been distributed around the world since it’s first version in 2012.&lt;/p&gt;
 
 &lt;p&gt;…centers the experience of being a newcomer&lt;/p&gt;
 
