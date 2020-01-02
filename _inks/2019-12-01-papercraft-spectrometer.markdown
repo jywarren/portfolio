@@ -20,8 +20,16 @@ I led the development of this [open source kit](https://publiclab.org/paper) as 
 
 The kit was included as a cut-out insert in issue 70 of Make Magazine, was a finalist for the Designs of the Year 2014 at the Design Museum in London, and was featured in the December issue of the Economist in 2017. It incorporated and built upon the open sourced contributions of hundreds of people, from blog posts by the Inter-University Center for Astronomy and Astrophysics in Pune, India, to the 1600 backers of the Kickstarter project we launched the first version with in 2012.
 
-<iframe width="560" height="310" src="https://www.youtube.com/embed/Zb47-44Alq8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![three images: the papercraft spectrometer taped to a smartphone, showing a rainbow on its screen, a brown paper envelope labeled DIY Foldable Paper Spectrometer, and a small square of transparent film held in front of a lightbulb by two fingers which shows a rainbow pattern](/assets/images/spec-tryptych.jpg#full)
+
+Using scissors, the design can be cut from a paper template which may be printed on cardstock; the interior is darkened due to a large square of black ink on the reverse side. The prism, or diffraction grating, which bends light into a rainbow, can be made by cutting a slice of a DVD-R and taping it to the provided window. 
 
 ![the papercraft spectrometer mid-assembly, being cut out with scissors](https://publiclab.org/system/images/photos/000/022/677/original/IMG_20171130_140926.jpg)
 
+Basic instructions for both assembly and calibration are printed on the device itself, [inspired by the Antikytheros device](https://publiclab.org/notes/warren/07-06-2017/scissors-only-build-of-wider-papercraft-spectrometer), an example of a technology which "explains itself to you." 
+
+<iframe width="560" height="310" src="https://www.youtube.com/embed/Zb47-44Alq8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![the papercraft spectrometer assembled, on a wooden table](/assets/images/spec-foldable-2.jpg)
+
+_Images CC-BY-SA Jeffrey Yoo Warren & Public Lab contributors_

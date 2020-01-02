@@ -63,6 +63,12 @@ autopages:
 collections:
   inks:
     output: true
+    order:
+      - _inks/2018-06-19-porcelain-spectrometer.markdown
+      - _inks/2019-01-23-microscope.markdown
+      - 2019-12-01-papercraft-spectrometer.markdown
+      - 2020-01-01-uv-microscope.markdown
+      - 2019-01-01-illustration.markdown
 
 # Build settings
 markdown: kramdown

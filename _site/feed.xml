@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Jan 2020 14:25:41 -0500</pubDate>
-    <lastBuildDate>Wed, 01 Jan 2020 14:25:41 -0500</lastBuildDate>
+    <pubDate>Wed, 01 Jan 2020 20:23:16 -0500</pubDate>
+    <lastBuildDate>Wed, 01 Jan 2020 20:23:16 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -34,39 +34,16 @@
       </item>
     
       <item>
-        <title>Papercraft spectrometer</title>
-        <description>&lt;p&gt;The Papercraft Spectrometer is a DIY kit which shifts the problem space of spectrometry into the realm of papercraft. I led the development of this kit as Director of Research at Public Lab, and an estimated 80,000 kits have been distributed around the world since it’s first version in 2012.&lt;/p&gt;
-
-&lt;p&gt;…centers the experience of being a newcomer&lt;/p&gt;
-
-&lt;p&gt;The kit was included as an insert in issue X of Make Magazine, was a finalist for the Designs of the Year 2014 at the Design Museum in London, and was featured in the December issue of the Economist in 2017.&lt;/p&gt;
-
-&lt;p&gt;Request a workshop&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Dec 2019 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2019/12/01/papercraft-spectrometer/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/12/01/papercraft-spectrometer/</guid>
-        
-        <category>Kits</category>
-        
-        <category>Community Science</category>
-        
-        <category>Public Lab</category>
-        
-        
-      </item>
-    
-      <item>
         <title>Infragram cameras</title>
         <description>&lt;p&gt;Infragram camera kits are a low-cost, DIY project for analyzing plant health using mixed infrared/visible photography, based on a technique from satellite photography.&lt;/p&gt;
 
-&lt;p&gt;The Papercraft Spectrometer is a DIY kit which shifts the problem space of spectrometry into the realm of papercraft. I led the development of this kit as Director of Research at &lt;a href=&quot;https://publiclab.org/&quot;&gt;Public Lab&lt;/a&gt;, and an estimated 80,000 kits have been distributed around the world since it’s first version in 2012.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/infragram-1.png&quot; alt=&quot;a false-color image of two small plants side by side with leaves radiating outward; in rainbow colors like a heat map&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;…centers the experience of being a newcomer&lt;/p&gt;
+&lt;p&gt;I led the development of this kit as Director of Research at &lt;a href=&quot;https://publiclab.org/&quot;&gt;Public Lab&lt;/a&gt;, and an estimated XXXX kits have been distributed around the world since it’s first version in 2013.&lt;/p&gt;
 
-&lt;p&gt;The kit was included as an insert in issue X of Make Magazine, was a finalist for the Designs of the Year 2014 at the Design Museum in London, and was featured in the December issue of the Economist in 2017.&lt;/p&gt;
+&lt;p&gt;The kit was featured in Popular Mechanics, and issue 70 of Make Magazine in 2019.&lt;/p&gt;
 
-&lt;p&gt;Request a workshop&lt;/p&gt;
+&lt;!-- Request a workshop --&gt;
 
 &lt;p&gt;&lt;em&gt;Images CC-BY-SA Jeffrey Yoo Warren &amp;amp; Public Lab contributors&lt;/em&gt;&lt;/p&gt;
 </description>

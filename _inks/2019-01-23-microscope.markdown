@@ -31,3 +31,4 @@ MICROBREWS is a series of social events hosted at bars (or coffee shops) where p
 
 The Community Microscope is based on the open source [LifePatch microscope](https://hackteria.org/wiki/Laser-cut_microscopy_stages#LifePatch_DIY_WebCam_Microscope_Stage), the [Hackteria microscope](https://publiclab.org/notes/partsandcrafts/10-26-2017/making-a-hackteria-microscope), the [OpenFlexure Microscope](), and Max Liboiron's work at [CLEAR](http://CivicLaboratory.nl) ([#13503](https://publiclab.org/n/13503)), among other sources. 
 
+_Images CC-BY-SA Jeffrey Yoo Warren & Public Lab contributors_
