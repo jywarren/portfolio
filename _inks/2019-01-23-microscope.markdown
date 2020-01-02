@@ -11,11 +11,13 @@ tags:
   - Public Lab
 ---
 
-The Community Microscope Kit, which I led development on at [Public Lab](https://publiclab.org/micro), is an affordable microscope made from everyday materials, including a webcam, bolts, and rubber bands. It can be assembled in about 30 minutes, and was originally designed to photograph silica particles, a form of air pollution from frac sand mining. The microscope is powerful enough to photograph 10 micron air pollution particles.
+The Community Microscope Kit, which I led development on at [Public Lab](https://publiclab.org/micro), is an affordable microscope made from everyday materials, including a webcam, bolts, and rubber bands. It can be assembled in about 30 minutes and was originally designed to photograph silica particles, a form of air pollution from frac sand mining. The microscope is powerful enough to photograph 10 micron air pollution particles.
 
 ![a photo of the kit with the words BUILD THIS MICROSCOPE overlaid, and a photograph of air pollution particles with the words THIS IS WHAT 2.5 MICRON AIR POLLUTION LOOKS LIKE overlaid](/assets/images/micro-air-pollution.jpg)
 
 By lowering the barrier to getting a microscope, this kit helps make microscopic photography a tool for collecting otherwise invisible environmental evidence in visual form. While building your own microscope isn't necessary to make use of one, it's far more affordable, and encourages remixing and adaptation, and encourages divergent designs and uses. 
+
+![three microscopic images of sand particles on multicolored backgrounds](/assets/images/micro-dust.jpg)
 
 ![a woman smiling in a dimly lit room while an image of cells is projected onto her shirt](/assets/images/micro-cells-shirt.jpg)
 
