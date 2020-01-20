@@ -11,7 +11,9 @@ tags:
   - Public Lab
 ---
 
-The Papercraft Spectrometer is a DIY kit which shifts the problem space of spectrometry into the realm of papercraft. I led the development of this kit as Director of Research at [Public Lab](https://publiclab.org/), and an estimated 80,000 kits have been distributed around the world since it's first version in 2012.
+The Infragram Camera is a DIY kit which  
+
+I led the development of this kit as Director of Research at [Public Lab](https://publiclab.org/), and an estimated 80,000 kits have been distributed around the world since it's first version in 2012.
 
 ...centers the experience of being a newcomer 
 

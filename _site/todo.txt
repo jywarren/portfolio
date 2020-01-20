@@ -1,0 +1,37 @@
+https://docs.google.com/spreadsheets/d/1VDlmiwFDOuro1XhtQISRucjnohbAh2Zrz_DBpkTDt_8/edit#gid=0
+
+Move I&D to main
+
+
+Mozilla Open Hardware Leaders: mentor
+
+
+
+
+Upcoming:
+
+
+Mockingbird
+Coqui
+Thermal flashlight (KS?)
+
+
+## On deck:
+
+Infragram...
+  * https://docs.google.com/document/d/1uMZpiZ1wxXXdPi7sHpakxnhhIKyUiHmOG1b_4TC4EjE/edit - proposal
+  * https://docs.google.com/document/d/13kaYBlDhKoOmA28ncgLGs8zVJz69rkFy0ekr56_TqWI/edit - blog post
+Webjack...
+  * OHS proposal
+
+## Online but needs improvement:
+
+Community Microscope
+Papercraft spectrometer
+Microcyanotypes
+
+## Done:
+
+Porcelain spectrometer
+
+
