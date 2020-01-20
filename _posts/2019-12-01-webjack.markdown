@@ -11,12 +11,21 @@ tags:
   - Public Lab
 ---
 
-The Infragram Camera is a DIY kit which  
+WebJack is a way of connecting a web page to a sensor or devices using a 1970s-era audio modem protocol to enable two-way communication. It sends a series of audio tones back and forth between your browser and an [Arduino](https://arduino.cc) microcontroller. WebJack invites those who write webpages (or [p5js sketches](https://p5js.org)) to interact with the physical world through a unique audio-based system.
 
-I led the development of this kit as Director of Research at [Public Lab](https://publiclab.org/), and an estimated 80,000 kits have been distributed around the world since it's first version in 2012.
+Connecting sensors and reading data from them remains a frustrating experience for many, and one which often requires more expensive Bluetooth or WiFi systems, browser plugins, or special apps. WebJack eases the work to connect sensors, motors, or other electronic devices to your computer or phone by sending signals "out loud" -- or over a headphone cable -- and lets you focus on interesting interactive and creative work. 
 
-...centers the experience of being a newcomer 
+Because the communication is audio-based, recordings of data work just as well as live audio. This means data, or commands (such as to activate a set of motors in a specific sequence) can be recorded as sound files, or embedded in videos. 
 
-The kit was included as an insert in issue X of Make Magazine, was a finalist for the Designs of the Year 2014 at the Design Museum in London, and was featured in the December issue of the Economist in 2017.
+I led the design of this kit as Director of Research at [Public Lab](https://publiclab.org/), and worked with the talented Richard Meister, who wrote the software interface as part of his Google Summer of Code fellowship program.
 
-Request a workshop
+![an example sketch on p5js.org showing how to use WebJack](/assets/images/webjack-p5js.png)
+
+## p5js
+
+As new strategies emerge to engage newcomers, both the p5js and Public Lab communities have worked to create inclusive spaces which center historically excluded groups and challenge ingrained conceptions of “who can do tech and/or science.” While social practices such as events, workshops, and well-written online materials that decenter jargon can provide a crucial foundation for this work, anyone who’s taught an Arduino workshop knows that there are dozens of small but significant barriers, from installing drivers to selecting serial baud rates. WebJack is about prototyping the kind of plug-and-play interface that can help us focus on the kinds of more compelling problems and ideas that come from a more diverse community with wide ranging interests and experiences.
+
+WebJack can sidestep many of the barriers that come with the basic Arduino/computer setup, connecting to a basic JavaScript interface, as well as to Scratch or any audio-capable program such as Max/MSP or Pure Data using an audio modem protocol. This interoperability invites participation by artists, musicians, and, at Public Lab, community scientists and activists. The recently created p5js integration, now featured as a standard p5js example, is especially promising, because the p5js community has done a great deal to address not only technical barriers, but inclusivity and diversity. WebJack is now installed by default on all [Public Lab’s Arduino-based sensor kits](https://publiclab.org/tag/arduino), as featured in the Fall 2019 issue of Make Magazine. 
+
+Beyond this, WebJack opens up new possibilities such as controlling an Arduino from drum pads, in a voicemail message, or using a tape recorder, as well as embedding interactive text in a book or a waterproof container, while remaining accessible on a webpage with any smartphone. It explores how changing the basic infrastructure of hardware projects to decenter mainstream conceptions of technical virtuosity can open up space for powerful new ideas and applications from a broader community. 
+

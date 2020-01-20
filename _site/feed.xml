@@ -6,15 +6,17 @@
 </description>
     <link>https://portfolio.unterbahn.com</link>
     <atom:link href="https://portfolio.unterbahn.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Jan 2020 13:21:36 -0500</pubDate>
-    <lastBuildDate>Mon, 20 Jan 2020 13:21:36 -0500</lastBuildDate>
+    <pubDate>Mon, 20 Jan 2020 15:02:57 -0500</pubDate>
+    <lastBuildDate>Mon, 20 Jan 2020 15:02:57 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Microscopic Cyanotypes</title>
         <description>&lt;p&gt;As I’ve been &lt;a href=&quot;/inks/2019-01-23-microscope/&quot;&gt;making and using DIY microscopes for some years&lt;/a&gt;, I was curious to try taking an analog photograph of a microscopic sample. I have been testing a way to produce a cyanotype directly from a microscopic slide using a UV laser and a small lens, and have been able to produce small snapshots of cells and insect parts in just a few minutes.&lt;/p&gt;
 
-&lt;p&gt;I think this would make a really unique printmaking technique, and if we set up 2-3 boxes it would make for a nice station at AS220 Drink and Ink.&lt;/p&gt;
+&lt;p&gt;This type of microscopic photography requires no electronics and results in a print. It will be an interactive part of &lt;a href=&quot;http://industries.as220.org/&quot;&gt;AS220 Industries Drink and Ink&lt;/a&gt; event in May 2020, where I will be Artist in Residence.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/uv-micro-prints.jpg&quot; alt=&quot;two cyanotype prints hanging from a shelf, showing microscopic images, including one of a millipede&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/cyan-close.jpg&quot; alt=&quot;a close-up image of a blue circle of light on a clipboard in a dark room, showing magnified microscopic shapes&quot; /&gt;&lt;/p&gt;
 
@@ -35,15 +37,24 @@
     
       <item>
         <title>WebJack audio sensor communication</title>
-        <description>&lt;p&gt;The Infragram Camera is a DIY kit which&lt;/p&gt;
+        <description>&lt;p&gt;WebJack is a way of connecting a web page to a sensor or devices using a 1970s-era audio modem protocol to enable two-way communication. It sends a series of audio tones back and forth between your browser and an &lt;a href=&quot;https://arduino.cc&quot;&gt;Arduino&lt;/a&gt; microcontroller. WebJack invites those who write webpages (or &lt;a href=&quot;https://p5js.org&quot;&gt;p5js sketches&lt;/a&gt;) to interact with the physical world through a unique audio-based system.&lt;/p&gt;
 
-&lt;p&gt;I led the development of this kit as Director of Research at &lt;a href=&quot;https://publiclab.org/&quot;&gt;Public Lab&lt;/a&gt;, and an estimated 80,000 kits have been distributed around the world since it’s first version in 2012.&lt;/p&gt;
+&lt;p&gt;Connecting sensors and reading data from them remains a frustrating experience for many, and one which often requires more expensive Bluetooth or WiFi systems, browser plugins, or special apps. WebJack eases the work to connect sensors, motors, or other electronic devices to your computer or phone by sending signals “out loud” – or over a headphone cable – and lets you focus on interesting interactive and creative work.&lt;/p&gt;
 
-&lt;p&gt;…centers the experience of being a newcomer&lt;/p&gt;
+&lt;p&gt;Because the communication is audio-based, recordings of data work just as well as live audio. This means data, or commands (such as to activate a set of motors in a specific sequence) can be recorded as sound files, or embedded in videos.&lt;/p&gt;
 
-&lt;p&gt;The kit was included as an insert in issue X of Make Magazine, was a finalist for the Designs of the Year 2014 at the Design Museum in London, and was featured in the December issue of the Economist in 2017.&lt;/p&gt;
+&lt;p&gt;I led the design of this kit as Director of Research at &lt;a href=&quot;https://publiclab.org/&quot;&gt;Public Lab&lt;/a&gt;, and worked with the talented Richard Meister, who wrote the software interface as part of his Google Summer of Code fellowship program.&lt;/p&gt;
 
-&lt;p&gt;Request a workshop&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/webjack-p5js.png&quot; alt=&quot;an example sketch on p5js.org showing how to use WebJack&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;p5js&quot;&gt;p5js&lt;/h2&gt;
+
+&lt;p&gt;As new strategies emerge to engage newcomers, both the p5js and Public Lab communities have worked to create inclusive spaces which center historically excluded groups and challenge ingrained conceptions of “who can do tech and/or science.” While social practices such as events, workshops, and well-written online materials that decenter jargon can provide a crucial foundation for this work, anyone who’s taught an Arduino workshop knows that there are dozens of small but significant barriers, from installing drivers to selecting serial baud rates. WebJack is about prototyping the kind of plug-and-play interface that can help us focus on the kinds of more compelling problems and ideas that come from a more diverse community with wide ranging interests and experiences.&lt;/p&gt;
+
+&lt;p&gt;WebJack can sidestep many of the barriers that come with the basic Arduino/computer setup, connecting to a basic JavaScript interface, as well as to Scratch or any audio-capable program such as Max/MSP or Pure Data using an audio modem protocol. This interoperability invites participation by artists, musicians, and, at Public Lab, community scientists and activists. The recently created p5js integration, now featured as a standard p5js example, is especially promising, because the p5js community has done a great deal to address not only technical barriers, but inclusivity and diversity. WebJack is now installed by default on all &lt;a href=&quot;https://publiclab.org/tag/arduino&quot;&gt;Public Lab’s Arduino-based sensor kits&lt;/a&gt;, as featured in the Fall 2019 issue of Make Magazine.&lt;/p&gt;
+
+&lt;p&gt;Beyond this, WebJack opens up new possibilities such as controlling an Arduino from drum pads, in a voicemail message, or using a tape recorder, as well as embedding interactive text in a book or a waterproof container, while remaining accessible on a webpage with any smartphone. It explores how changing the basic infrastructure of hardware projects to decenter mainstream conceptions of technical virtuosity can open up space for powerful new ideas and applications from a broader community.&lt;/p&gt;
+
 </description>
         <pubDate>Sun, 01 Dec 2019 00:00:00 -0500</pubDate>
         <link>https://portfolio.unterbahn.com/2019/12/01/webjack/</link>
@@ -99,9 +110,7 @@
     
       <item>
         <title>Infragram cameras</title>
-        <description>&lt;p&gt;Infragram camera kits are a low-cost, DIY project for analyzing plant health using mixed infrared/visible photography, based on a technique from satellite photography.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/infragram-1.png&quot; alt=&quot;a false-color image of two small plants side by side with leaves radiating outward; in rainbow colors like a heat map&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/infragram-1.png&quot; alt=&quot;a false-color image of two small plants side by side with leaves radiating outward; in rainbow colors like a heat map&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I led the development of this kit as Director of Research at &lt;a href=&quot;https://publiclab.org/&quot;&gt;Public Lab&lt;/a&gt;, and an estimated XXXX kits have been distributed around the world since it’s first version in 2013.&lt;/p&gt;
 

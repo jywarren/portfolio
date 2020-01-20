@@ -11,7 +11,7 @@ tags:
   - Public Lab
 ---
 
-Infragram camera kits are a low-cost, DIY project for analyzing plant health using mixed infrared/visible photography, based on a technique from satellite photography. 
+
 
 ![a false-color image of two small plants side by side with leaves radiating outward; in rainbow colors like a heat map](/assets/images/infragram-1.png)
 
