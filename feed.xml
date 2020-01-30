@@ -6,8 +6,8 @@
 </description>
     <link>https://portfolio.unterbahn.com</link>
     <atom:link href="https://portfolio.unterbahn.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Jan 2020 15:02:57 -0500</pubDate>
-    <lastBuildDate>Mon, 20 Jan 2020 15:02:57 -0500</lastBuildDate>
+    <pubDate>Thu, 30 Jan 2020 11:25:52 -0500</pubDate>
+    <lastBuildDate>Thu, 30 Jan 2020 11:25:52 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -43,7 +43,7 @@
 
 &lt;p&gt;Because the communication is audio-based, recordings of data work just as well as live audio. This means data, or commands (such as to activate a set of motors in a specific sequence) can be recorded as sound files, or embedded in videos.&lt;/p&gt;
 
-&lt;p&gt;I led the design of this kit as Director of Research at &lt;a href=&quot;https://publiclab.org/&quot;&gt;Public Lab&lt;/a&gt;, and worked with the talented Richard Meister, who wrote the software interface as part of his Google Summer of Code fellowship program.&lt;/p&gt;
+&lt;p&gt;I led the design of this kit as Director of Research at &lt;a href=&quot;https://publiclab.org/&quot;&gt;Public Lab&lt;/a&gt;, and worked with the talented &lt;a href=&quot;https://github.com/rmeister&quot;&gt;Richard Meister&lt;/a&gt;, who wrote the software interface as part of his Google Summer of Code fellowship program.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/webjack-p5js.png&quot; alt=&quot;an example sketch on p5js.org showing how to use WebJack&quot; /&gt;&lt;/p&gt;
 
