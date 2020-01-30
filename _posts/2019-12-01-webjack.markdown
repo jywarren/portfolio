@@ -17,7 +17,7 @@ Connecting sensors and reading data from them remains a frustrating experience f
 
 Because the communication is audio-based, recordings of data work just as well as live audio. This means data, or commands (such as to activate a set of motors in a specific sequence) can be recorded as sound files, or embedded in videos. 
 
-I led the design of this kit as Director of Research at [Public Lab](https://publiclab.org/), and worked with the talented Richard Meister, who wrote the software interface as part of his Google Summer of Code fellowship program.
+I led the design of this kit as Director of Research at [Public Lab](https://publiclab.org/), and worked with the talented [Richard Meister](https://github.com/rmeister), who wrote the software interface as part of his Google Summer of Code fellowship program.
 
 ![an example sketch on p5js.org showing how to use WebJack](/assets/images/webjack-p5js.png)
 
