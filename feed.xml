@@ -6,8 +6,8 @@
 </description>
     <link>https://portfolio.unterbahn.com</link>
     <atom:link href="https://portfolio.unterbahn.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Jan 2020 11:25:52 -0500</pubDate>
-    <lastBuildDate>Thu, 30 Jan 2020 11:25:52 -0500</lastBuildDate>
+    <pubDate>Fri, 13 Mar 2020 14:20:54 -0400</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2020 14:20:54 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -112,7 +112,9 @@
         <title>Infragram cameras</title>
         <description>&lt;p&gt;&lt;img src=&quot;/assets/images/infragram-1.png&quot; alt=&quot;a false-color image of two small plants side by side with leaves radiating outward; in rainbow colors like a heat map&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I led the development of this kit as Director of Research at &lt;a href=&quot;https://publiclab.org/&quot;&gt;Public Lab&lt;/a&gt;, and an estimated XXXX kits have been distributed around the world since it’s first version in 2013.&lt;/p&gt;
+&lt;p&gt;Infragram is a DIY project to modify digital cameras to take infrared photos, in order to understand plant health. Using https://infragram.org, photos taken with an Infragram camera can be processed to highlight photosynthetic productivity.&lt;/p&gt;
+
+&lt;p&gt;I led the development of this kit as Director of Research at &lt;a href=&quot;https://publiclab.org/&quot;&gt;Public Lab&lt;/a&gt;, and thousands of Infragram kits have been distributed around the world since it’s first version in 2013.&lt;/p&gt;
 
 &lt;p&gt;The kit was featured in Popular Mechanics, and issue 70 of Make Magazine in 2019.&lt;/p&gt;
 
