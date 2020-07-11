@@ -6,11 +6,9 @@ image: /assets/images/bio-photo.jpg
 
 My name is Jeffrey Yoo Warren, and I am an artist, community scientist, illustrator, and researcher in Providence, Rhode Island.
 
-I collaboratively create community science projects which decenter dominant culture in environmental knowledge production. I host participatory projects, run workshops and give talks on cultural making, collaborative practice, community science, and open hardware. I am also a contributor to over [150 open source code projects](https://github.com/jywarren/), many of which I started.
+I collaboratively create community science projects which decenter dominant culture in environmental knowledge production. I host participatory projects, run workshops and give talks on cultural making, collaborative practice, community science, and open hardware. I am also a contributor to over [150 open source code projects](https://github.com/jywarren/), many of which I started and several of whose communities I lead. I'm  an <a href="/inks/2019-01-01-illustration/">illustrator</a> as well as a mentor of programs that support diversity, equity, and inclusion in software engineering, and am Lead Code Community Coordinator at Public Lab as part of this work. _(more on this coming soon)_
 
-I'm also an <a href="/inks/2019-01-01-illustration/">illustrator</a> as well as a mentor of programs that support diversity, equity, and inclusion in software engineering, and am Lead Code Community Coordinator at Public Lab as part of this work. _(more on this coming soon)_
-
-I am a member of [AS220 Industries](https://industries.as220.org), a board member of the [Open Source Hardware Association](https://oshwa.org) since 2014, and a board member of alternative education program [Parts and Crafts](https://partsandcrafts.org). I have an MS from MIT and a BA in Architecture from Yale University, and spent much of that time working with artist/technologist Natalie Jeremijenko, building robotic dogs.
+I am a member of [AS220 Industries](https://industries.as220.org) and Vice President of the [Open Source Hardware Association](https://oshwa.org) board, and have been on the board (except for 1 year) since 2014. I have an MS from MIT and a BA in Architecture from Yale University, and spent much of that time working with artist/technologist Natalie Jeremijenko, building robotic dogs.
 
 ### Public Lab
 
