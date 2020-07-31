@@ -8,7 +8,7 @@ tags:
   - writing
 ---
 
-With the latest season of Westworld diving into modeling the future, it’s a good time to get Taproot on the record, because otherwise Netflix will never make it.
+_April 27, 2020_ With the latest season of Westworld diving into modeling the future, it’s a good time to get Taproot on the record, because otherwise Netflix will never make it.
 
 Taproot (aka Gravitas) is an idea for a TV show dreamt up with Eli Alford Jones during a hangover (and later refined with Will MacFarlane), which imagines a future AFTER “futurecasting,” which is what modeling the future will be known as. 
 
