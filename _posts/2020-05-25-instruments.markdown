@@ -35,7 +35,8 @@ Instead these instruments invite intimacy with hidden landscapes, or shared secr
 As these projects progress, I’ll continue posting here with more about each instrument:
 
 * **Porcelain spectrometer** - the [first in the collection](/2018/06/19/porcelain-spectrometer/), this exploration of a possible past imagines an artifact of an alternative origin story, a spectrometer in the tradition of Joseon period Korean inkwells.
-* **Air lantern + kite** - coming soon
+* **Sky lanterns** - coming soon
+* **Hot Water Fishing** - coming soon
 * **1000周 / 1000hz egg** - coming soon
 
 ![a poreclain box on four short legs, with blue checkered pattern and a porcelain cone on top](/assets/images/spec-porcelain-lead.jpg)
