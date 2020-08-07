@@ -18,7 +18,7 @@ figure {
 }
 </style>
 
-In early 2020, I’ve begun a collection of projects which prototype culturally situated knowledge production in a world where dominant culture collapses all meanings into one lineage (see [Anti-Assimilation](/themes)). 
+In early 2020, I’ve begun a collection of projects which prototype culturally situated knowledge production in a world where dominant culture collapses all meanings into one lineage (see [Anti-Assimilation](/themes), esp. [Sadie Prego](http://sadieprego.com/)). 
 
 ![a translucent purple-ish square with two sewing pins sticking out, each wrapped in copper wire, which go out the bottom of the frame](/assets/images/instruments-3.png)
 
