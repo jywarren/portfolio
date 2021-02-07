@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Taller Leñateros Zine"
-date: 2021-02-08
-description: 
+date: 2021-02-06
+description: A zine celebrating Taller Leñateros
 image: /assets/images/lenateros-lead.jpg
 author: Jeffrey Yoo Warren
 tags: 
