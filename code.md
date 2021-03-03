@@ -24,4 +24,4 @@ Apart from that work are a variety of other projects:
 
 [fisheyegl](https://github.com/jywarren/fisheyegl) - Apr 2014 - A JavaScript library for correcting fisheye, or barrel distortion, in images in the browser with WebG
 
-
+[vectorcam](http://jywarren.github.io/vectorcam) - 2015 - A browser-based image vectorizer - upload images and get SVGs.
