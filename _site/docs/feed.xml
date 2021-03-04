@@ -6,9 +6,39 @@
 </description>
     <link>https://unterbahn.com</link>
     <atom:link href="https://unterbahn.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Dec 2020 12:05:48 -0500</pubDate>
-    <lastBuildDate>Mon, 28 Dec 2020 12:05:48 -0500</lastBuildDate>
+    <pubDate>Sun, 07 Feb 2021 01:11:15 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Feb 2021 01:11:15 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Taller Leñateros Zine</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/tallerlenateros/&quot;&gt;Taller Leñateros&lt;/a&gt; is a collective publishing house operated by contemporary Maya artists in Chiapas, Mexico. With great love and gratitude for this work to preserve their ancestral knowledge, we have made a zine to celebrate and appreciate their story and work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/lenateros-spread.jpg&quot; alt=&quot;A letter-sized ivory colored page which is an unfolded zine with 8 illustrated pages, telling what Taller Leñateros is with images of a book with a face on the cover, a doorway, people holding piles of paper, and more, laying on a wooden table. &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://towardsanidealplace&quot;&gt;Aisha Jandosova&lt;/a&gt; and I printed these using &lt;a href=&quot;https://github.com/jywarren/risoAtHome/&quot;&gt;Riso@Home&lt;/a&gt; on a laser printer and are offering copies for $5-10 (pay what you can) each in either Spanish or English, purchase by Venmo to &lt;a href=&quot;http://venmo.com/unterbahn&quot;&gt;@unterbahn&lt;/a&gt;; all proceeds go to Taller Leñateros.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/lenateros-upclose.jpg&quot; alt=&quot;A close-up of the illustration showing a book with a face in relief on its cover, in yellow/gold shades with blue shadow.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In our Voces Mayores art-making and storytelling workshops, Aisha Jandosova and I were inspired by their work to preserve &amp;amp; expand indigenous literature and voices by “publishing the first books written, illustrated, printed, and bound by the Maya community in over 400 years.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/lenateros-2up.jpg&quot; alt=&quot;Left: A small paper zine with yellow and blue inks showing a doorway with the words &amp;quot;Taller Leñateros&amp;quot; above, and below, &amp;quot;Taller Leñateros es un colectivo editorial operado por artistas mayas contemporaneas en Chiapas, Mexico.&amp;quot; Right: Zines and art supplies in a cardboard box with a handle, on a pile of boxes.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In January 2021, we spent time making and reading these zines on Zoom with seniors in the Foster Grandparents program in the Providence area, where we delivered art-making kits!&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+        <link>https://unterbahn.com/2021/02/06/lenateros/</link>
+        <guid isPermaLink="true">https://unterbahn.com/2021/02/06/lenateros/</guid>
+        
+        <category>Zines</category>
+        
+        <category>Decentering</category>
+        
+        <category>Anti-assimilation</category>
+        
+        
+      </item>
     
       <item>
         <title>Box microscopes</title>
@@ -36,7 +66,7 @@
 
 &lt;p&gt;&lt;em&gt;Images CC-BY-SA Jeffrey Yoo Warren&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 05 Dec 2020 00:00:00 -0500</pubDate>
+        <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
         <link>https://unterbahn.com/2020/12/05/box-microscopes/</link>
         <guid isPermaLink="true">https://unterbahn.com/2020/12/05/box-microscopes/</guid>
         
@@ -85,7 +115,7 @@ figure {
 
 &lt;p&gt;&lt;em&gt;Images CC-BY-SA Jeffrey Yoo Warren&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 05 May 2020 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
         <link>https://unterbahn.com/2020/05/05/instruments/</link>
         <guid isPermaLink="true">https://unterbahn.com/2020/05/05/instruments/</guid>
         
@@ -110,7 +140,7 @@ figure {
 
 &lt;p&gt;&lt;em&gt;Images CC-BY-SA Jeffrey Yoo Warren (some with Public Lab)&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 01 Jan 2020 00:00:00 -0500</pubDate>
+        <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
         <link>https://unterbahn.com/2020/01/01/uv-microscope/</link>
         <guid isPermaLink="true">https://unterbahn.com/2020/01/01/uv-microscope/</guid>
         
@@ -144,7 +174,7 @@ figure {
 &lt;p&gt;Beyond this, WebJack opens up new possibilities such as controlling an Arduino from drum pads, in a voicemail message, or using a tape recorder, as well as embedding interactive text in a book or a waterproof container, while remaining accessible on a webpage with any smartphone. It explores how changing the basic infrastructure of hardware projects to decenter mainstream conceptions of technical virtuosity can open up space for powerful new ideas and applications from a broader community.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 01 Dec 2019 00:00:00 -0500</pubDate>
+        <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
         <link>https://unterbahn.com/2019/12/01/webjack/</link>
         <guid isPermaLink="true">https://unterbahn.com/2019/12/01/webjack/</guid>
         
@@ -181,7 +211,7 @@ figure {
 
 &lt;p&gt;&lt;em&gt;Images CC-BY-SA Jeffrey Yoo Warren &amp;amp; Public Lab contributors&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 01 Dec 2019 00:00:00 -0500</pubDate>
+        <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
         <link>https://unterbahn.com/2019/12/01/papercraft-spectrometer/</link>
         <guid isPermaLink="true">https://unterbahn.com/2019/12/01/papercraft-spectrometer/</guid>
         
@@ -210,7 +240,7 @@ figure {
 
 &lt;p&gt;&lt;em&gt;Images CC-BY-SA Jeffrey Yoo Warren &amp;amp; Public Lab contributors&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 01 Dec 2019 00:00:00 -0500</pubDate>
+        <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
         <link>https://unterbahn.com/2019/12/01/infragram/</link>
         <guid isPermaLink="true">https://unterbahn.com/2019/12/01/infragram/</guid>
         
@@ -249,7 +279,7 @@ figure {
 
 &lt;p&gt;&lt;em&gt;Images CC-BY-SA Jeffrey Yoo Warren &amp;amp; Public Lab contributors&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 23 Jan 2019 00:00:00 -0500</pubDate>
+        <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
         <link>https://unterbahn.com/2019/01/23/microscope/</link>
         <guid isPermaLink="true">https://unterbahn.com/2019/01/23/microscope/</guid>
         
@@ -286,7 +316,7 @@ figure {
 
 &lt;p&gt;&lt;em&gt;Images CC-BY-SA Jeffrey Yoo Warren (some with Public Lab)&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
         <link>https://unterbahn.com/2019/01/01/illustration/</link>
         <guid isPermaLink="true">https://unterbahn.com/2019/01/01/illustration/</guid>
         
@@ -313,7 +343,7 @@ figure {
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/spec-ceramics.jpg&quot; alt=&quot;three small white Joseon period ceramic pieces, each cubic or octagonal, with blue glazed patterns&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 19 Jun 2018 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
         <link>https://unterbahn.com/2018/06/19/porcelain-spectrometer/</link>
         <guid isPermaLink="true">https://unterbahn.com/2018/06/19/porcelain-spectrometer/</guid>
         
