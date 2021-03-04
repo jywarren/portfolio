@@ -10,7 +10,7 @@ tags:
 
 _December 2020_ 
 
-Many many code projects as code community lead at [PublicLab.org](https://publiclab.org) from 2010-present: https://github.com/publiclab/
+Many many code projects as code community lead at [PublicLab.org](https://publiclab.org) from 2010-present: [https://github.com/publiclab](https://github.com/publiclab/)
 
 Apart from that work are a variety of other projects:
 
