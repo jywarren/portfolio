@@ -14,6 +14,8 @@ Many many code projects as code community lead at [PublicLab.org](https://public
 
 Apart from that work are a variety of other projects:
 
+[Bookletize.js](https://jywarren.github.io/bookletize.js/) - March 2021 - 📖 a web-based booklet maker/repaginator; drag and drop any PDF and it lays it out in 4,1,2,3 or 8,1,2,7/6,3,4,5 format, etc.
+
 [riso@home](https://github.com/jywarren/risoAtHome/) - Dec 2020 - Web-based tools for printing separated colors w/ halftone on a home laser printer
 
 [microkaleidoscope](https://github.com/jywarren/microkaleidoscope) - Aug 2020 - 🔬🔮 A video kaleidoscope made in p5js for use with 🔬
