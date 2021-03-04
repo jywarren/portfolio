@@ -8,7 +8,7 @@ tags:
   - code
 ---
 
-_December 2020_ 
+_March 2021_
 
 Many many code projects as code community lead at [PublicLab.org](https://publiclab.org) from 2010-present: [https://github.com/publiclab](https://github.com/publiclab/)
 
