@@ -34,6 +34,9 @@ By contrast, my goal is to use the process of reconstruction as one of healing a
 
 _Relational reconstruction_ focuses on the potential for a more multifaceted remembrance and correction, through relationships between the experiences partially represented in the archive, and today’s parallel experiences in minoritized groups. It acknowledges the limitations of the archive as a means of accessing erased moments, experiences, and spaces. In this approach, I seek to correct erasure, but through an imaginative, immersive, social, and creative approach, which encloses a gentle and nourishing space rather than enclosing an artifact of history in a diorama at a museum or on a plaque. This process restructures the archive as a set of selective clues, shaped by the active intent to obscure ancestral knowledges best expressed in ways least likely to be historically preserved – emotional tone, color, sound and smell, private moments and ephemera of personal relationships, hopes, aspirations, things unsaid. 
 
+_This work is supported by the [RI Council for the Humanities](https://rihumanities.org/), [Movement Education Outdoors](https://www.instagram.com/movementeducationoutdoors/), and [AS220](https://as220.org)._
+
+![RICH logo](https://user-images.githubusercontent.com/24359/162987739-53730909-b5f6-4b53-a13a-c450b0b82f90.png)
 
 <!--
 
