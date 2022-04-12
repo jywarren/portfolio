@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Seeing Providence Chinatown
-image: https://user-images.githubusercontent.com/24359/162980510-1f0c31c9-25f4-4936-bb52-bf87e32e8b07.png
+image: https://user-images.githubusercontent.com/24359/162983775-457b1699-e333-4c3b-a14a-022e0e53ec88.png
 ---
 
-_Seeing Providence Chinatown_ is a project using archival photography and maps to build an immersive digital 3D model of historic downtown Providence Chinatown, building on the excellent work of the [RI Chinese History project](https://richinesehistory.com) by Angela Yuanyuan Feng, Julieanne Fontana, John Eng-Wong and others. The process of reconstructing the neighborhood’s building exteriors and streets will weave together and interlink the relatively few images remaining of this once-vibrant enclave, of which almost no trace remains today. 
+_Seeing Providence Chinatown_ is a project using archival photography and maps to build an immersive digital 3D model of historic downtown Providence Chinatown, building on the work of the [RI Chinese History project](https://richinesehistory.com) by Angela Yuanyuan Feng, Julieanne Fontana, John Eng-Wong and others. The process of reconstructing the neighborhood’s building exteriors and streets will weave together and interlink the relatively few images remaining of this once-vibrant enclave, of which almost no trace remains today.
 
 ![A 3D render of the facades of the Empire Theater and a tailor shop from an old colorized photo, mapped onto rough 3D boxes in a reconstructed virtual Chinatown.](https://user-images.githubusercontent.com/24359/162981396-1a6ea9db-f0eb-434e-a7bc-ec043028edf0.png)
 
@@ -18,7 +18,7 @@ Archival media offers a selective and partial view into the lives of marginalize
 
 * [Early preview of Seeing Providence Chinatown](https://unterbahn.medium.com/an-early-look-at-seeing-providence-chinatown-c0ac9674d146) (Nov 14, 2021)
 * [Early February Update](https://unterbahn.medium.com/seeing-providence-chinatown-early-february-update-e568be07ab7d) (Feb 9 2022)
-* See ongoing progress updates and sneak peeks at my [Instagram stories feed](https://www.instagram.com/unterbahn/).
+* See progress updates and sneak peeks at my [Instagram stories feed](https://www.instagram.com/unterbahn/).
 
 The colonial histories of anthropology and archaeology are a sensitive aspect of any work to reconstruct or "make visible" communities which have been the subjects of extractive and dehumanizing research. This proposal focuses on opportunities for present day communities of color to find a personal connection with archival materials, and bringing these histories to life, not as a curiosity, but as a setting that might have been familiar to our grandparents – building on the work of authors such as Octavia Butler and Linda Sue Park, as well as the  concept of re-existencia described by Albán Achinte and Madina Tlostanova: "an active reworking of odors, tastes, colors and sounds of his/her ancestors and remaking of systematically negated forms of interactions with the world, of being and perception…  a sensual response of resistance…  in defiance to coloniality." (I learned about re-existencia through [Aisha Jandosova](https://www.instagram.com/towardsanidealplace/) and [Aida Issakhankyzy](https://www.instagram.com/uaqytjaryqkenistik/))
 
@@ -40,3 +40,4 @@ _Relational reconstruction_ focuses on the potential for a more multifaceted rem
 ### Memory Enclaves
 
 Memory Enclaves workshops: The _relational reconstruction_ methodology I am developing in the context of this neighborhood has wider multidisciplinary applications, around which I have begun designing public workshops. First offered in partnership with CultureHub NYC and AS220 Providence in spring of 2022, Ancestral Memory Enclaves is a workshop model incorporating relational reconstruction methodologies for creating a speculative “moment” or virtual space, based around a family or archival photograph with which one seeks a deeper relationship, through spatiality, texture, and soundscape. Hosted online in Mozilla Hubs immersive VR space, each participant chooses a photograph, from publicly available archives or private collections, and designs a virtual space representing their conception of the space around the photograph at the time it was taken. The workshop provides an opportunity to engage with archival and historical records in an alternative, relational way. Memory Enclaves workshops provide an interactive entry point to the broader methodology by engaging participants in relational reconstruction projects of their own, and so these are distributed throughout the project timeline as a means of broadening participation.
+-->
