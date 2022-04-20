@@ -4,11 +4,24 @@
     <title>Jeffrey Yoo Warren</title>
     <description>The portfolio of Jeffrey Yoo Warren, an artist, community scientist, illustrator, and researcher.
 </description>
-    <link>https://unterbahn.com</link>
-    <atom:link href="https://unterbahn.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Nov 2021 17:18:10 +0000</pubDate>
-    <lastBuildDate>Fri, 12 Nov 2021 17:18:10 +0000</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 12 Apr 2022 14:38:42 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2022 14:38:42 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Seeing Providence Chinatown</title>
+        <description>&lt;p&gt;&lt;em&gt;Seeing Providence Chinatown&lt;/em&gt; is a project using archival photography and maps to build an immersive digital 3D model of historic downtown Providence Chinatown. The process of reconstructing the neighborhood’s building exteriors and streets will weave together and interlink the relatively few images remaining of this once-vibrant enclave, of which almost no trace remains today.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/chinatown/&quot;&gt;Click here&lt;/a&gt; to read more about this project.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2022/04/12/chinatown/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/04/12/chinatown/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Taller Leñateros Zine</title>
@@ -28,8 +41,8 @@
 
 </description>
         <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
-        <link>https://unterbahn.com/2021/02/06/lenateros/</link>
-        <guid isPermaLink="true">https://unterbahn.com/2021/02/06/lenateros/</guid>
+        <link>http://localhost:4000/2021/02/06/lenateros/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/02/06/lenateros/</guid>
         
         <category>Zines</category>
         
@@ -67,8 +80,8 @@
 &lt;p&gt;&lt;em&gt;Images CC-BY-SA Jeffrey Yoo Warren&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
-        <link>https://unterbahn.com/2020/12/05/box-microscopes/</link>
-        <guid isPermaLink="true">https://unterbahn.com/2020/12/05/box-microscopes/</guid>
+        <link>http://localhost:4000/2020/12/05/box-microscopes/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/12/05/box-microscopes/</guid>
         
         <category>Kits</category>
         
@@ -92,8 +105,8 @@
 &lt;p&gt;&lt;img src=&quot;/assets/images/preciousness-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
-        <link>https://unterbahn.com/2020/08/05/preciousness-and-power/</link>
-        <guid isPermaLink="true">https://unterbahn.com/2020/08/05/preciousness-and-power/</guid>
+        <link>http://localhost:4000/2020/08/05/preciousness-and-power/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/05/preciousness-and-power/</guid>
         
         <category>Predecessor Science</category>
         
@@ -141,8 +154,8 @@ figure {
 &lt;p&gt;&lt;em&gt;Images CC-BY-SA Jeffrey Yoo Warren&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-        <link>https://unterbahn.com/2020/05/05/instruments/</link>
-        <guid isPermaLink="true">https://unterbahn.com/2020/05/05/instruments/</guid>
+        <link>http://localhost:4000/2020/05/05/instruments/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/05/instruments/</guid>
         
         <category>Kits</category>
         
@@ -166,8 +179,8 @@ figure {
 &lt;p&gt;&lt;em&gt;Images CC-BY-SA Jeffrey Yoo Warren (some with Public Lab)&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-        <link>https://unterbahn.com/2020/01/01/uv-microscope/</link>
-        <guid isPermaLink="true">https://unterbahn.com/2020/01/01/uv-microscope/</guid>
+        <link>http://localhost:4000/2020/01/01/uv-microscope/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/01/uv-microscope/</guid>
         
         <category>Kits</category>
         
@@ -200,8 +213,8 @@ figure {
 
 </description>
         <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-        <link>https://unterbahn.com/2019/12/01/webjack/</link>
-        <guid isPermaLink="true">https://unterbahn.com/2019/12/01/webjack/</guid>
+        <link>http://localhost:4000/2019/12/01/webjack/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/01/webjack/</guid>
         
         <category>Kits</category>
         
@@ -237,8 +250,8 @@ figure {
 &lt;p&gt;&lt;em&gt;Images CC-BY-SA Jeffrey Yoo Warren &amp;amp; Public Lab contributors&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-        <link>https://unterbahn.com/2019/12/01/papercraft-spectrometer/</link>
-        <guid isPermaLink="true">https://unterbahn.com/2019/12/01/papercraft-spectrometer/</guid>
+        <link>http://localhost:4000/2019/12/01/papercraft-spectrometer/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/01/papercraft-spectrometer/</guid>
         
         <category>Kits</category>
         
@@ -266,8 +279,8 @@ figure {
 &lt;p&gt;&lt;em&gt;Images CC-BY-SA Jeffrey Yoo Warren &amp;amp; Public Lab contributors&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-        <link>https://unterbahn.com/2019/12/01/infragram/</link>
-        <guid isPermaLink="true">https://unterbahn.com/2019/12/01/infragram/</guid>
+        <link>http://localhost:4000/2019/12/01/infragram/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/01/infragram/</guid>
         
         <category>Kits</category>
         
@@ -305,8 +318,8 @@ figure {
 &lt;p&gt;&lt;em&gt;Images CC-BY-SA Jeffrey Yoo Warren &amp;amp; Public Lab contributors&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-        <link>https://unterbahn.com/2019/01/23/microscope/</link>
-        <guid isPermaLink="true">https://unterbahn.com/2019/01/23/microscope/</guid>
+        <link>http://localhost:4000/2019/01/23/microscope/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/23/microscope/</guid>
         
         <category>Kits</category>
         
@@ -342,8 +355,8 @@ figure {
 &lt;p&gt;&lt;em&gt;Images CC-BY-SA Jeffrey Yoo Warren (some with Public Lab)&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-        <link>https://unterbahn.com/2019/01/01/illustration/</link>
-        <guid isPermaLink="true">https://unterbahn.com/2019/01/01/illustration/</guid>
+        <link>http://localhost:4000/2019/01/01/illustration/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/01/illustration/</guid>
         
         <category>Illustration</category>
         
@@ -371,8 +384,8 @@ figure {
 &lt;p&gt;&lt;img src=&quot;/assets/images/spec-ceramics.jpg&quot; alt=&quot;three small white Joseon period ceramic pieces, each cubic or octagonal, with blue glazed patterns&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-        <link>https://unterbahn.com/2018/06/19/porcelain-spectrometer/</link>
-        <guid isPermaLink="true">https://unterbahn.com/2018/06/19/porcelain-spectrometer/</guid>
+        <link>http://localhost:4000/2018/06/19/porcelain-spectrometer/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/06/19/porcelain-spectrometer/</guid>
         
         <category>Community Science</category>
         
