@@ -4,7 +4,7 @@ title: Seeing Providence Chinatown
 image: https://user-images.githubusercontent.com/24359/162983775-457b1699-e333-4c3b-a14a-022e0e53ec88.png
 ---
 
-_Seeing Providence Chinatown_ is a project using archival photography and maps to build an immersive digital 3D model of historic downtown Providence Chinatown, building on the work of the [RI Chinese History project](https://richinesehistory.com) by Angela Yuanyuan Feng, Julieanne Fontana, John Eng-Wong and others. The process of reconstructing the neighborhood’s building exteriors and streets will weave together and interlink the relatively few images remaining of this once-vibrant enclave, of which almost no trace remains today.
+_Seeing Providence Chinatown_ is an in-progress project using archival photography and maps to build an immersive digital 3D model of historic downtown Providence Chinatown, building on the work of the [RI Chinese History project](https://richinesehistory.com) by Angela Yuanyuan Feng, Julieanne Fontana, John Eng-Wong and others. The process of reconstructing the neighborhood’s building exteriors and streets will weave together and interlink the relatively few images remaining of this once-vibrant enclave, of which almost no trace remains today.
 
 ![A 3D render of the facades of the Empire Theater and a tailor shop from an old colorized photo, mapped onto rough 3D boxes in a reconstructed virtual Chinatown.](https://user-images.githubusercontent.com/24359/162981396-1a6ea9db-f0eb-434e-a7bc-ec043028edf0.png)
 
