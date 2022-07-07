@@ -7,7 +7,7 @@
     "start": "bundle exec jekyll serve",
     "build": "bundle exec jekyll build",
     "deploy": "gulp build && bundle exec jekyll build && s3-website deploy _site",
-    "gh-pages": "cp -r _site/* docs/ && git status",
+    "gh-pages": "cp -r _site/* docs/ && git add _site/ docs/ _posts/ && git status",
     "gulp": "gulp"
   },
   "author": {
