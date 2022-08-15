@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Seeing Providence Chinatown
-image: https://user-images.githubusercontent.com/24359/162983775-457b1699-e333-4c3b-a14a-022e0e53ec88.png
+image: /assets/images/chinatown-raining.jpg
 ---
 
 _Seeing Providence Chinatown_ is an in-progress project using archival photography and maps to build an immersive digital 3D model of historic downtown Providence Chinatown, building on the work of the [RI Chinese History project](https://richinesehistory.com) by Angela Yuanyuan Feng, Julieanne Fontana, John Eng-Wong and others. The process of reconstructing the neighborhood’s building exteriors and streets will weave together and interlink the relatively few images remaining of this once-vibrant enclave, of which almost no trace remains today.
@@ -26,7 +26,7 @@ The colonial histories of anthropology and archaeology are a sensitive aspect of
 
 I hope to produce a more immersive and contextually complete record by way of a spatial and sensory reconstruction, which will enable audiences to experience in a richer and more personal way what it would have felt like to stand in the heart of Providence’s Chinatown. Our histories include traumas – my ancestors were not allowed into the US until 1965, and the early history of Asian Americans in Providence was also fraught with exoticization – like Chinese performer Afong Moy’s 1835 appearance as a curiosity in the Providence Museum. These histories are over-represented in the archive. 
 
-By contrast, my goal is to use the process of reconstruction as one of healing and of belonging, and as a reclaiming and re-contextualizing of the archive, inspired by the speculative futurity projects of contemporary Black artists and scholars like ​​Saidiya Hartman. My practice engages peoples’ creative and collaborative abilities, building tools and spaces which support and inspire creative practices, and the Relational Reconstruction Toolkit focuses on the creative possibilities of what it could have felt like –as an Asian American person – to walk down the street and experience a sense of belonging at that moment in history.
+By contrast, my goal is to use the process of reconstruction as one of healing and of belonging, and as a reclaiming and re-contextualizing of the archive and its meanings for our futures, inspired by the speculative futurity projects of contemporary Black artists and the idea of _critical fabulation_ developed by Saidiya Hartman. My practice engages peoples’ creative and collaborative abilities, building tools and spaces which support and inspire creative practices, and the Relational Reconstruction Toolkit focuses on the creative possibilities of what it could have felt like –as an Asian American person – to walk down the street and experience a sense of belonging at that moment in history.
 
 ![A gif of using SketchUp to apply a facade from an old photograph onto a rough, grey 3D model of a building on the corner of Chinatown.](https://user-images.githubusercontent.com/24359/162980695-4495bef5-26ef-4517-a85e-a94628d61709.gif)
 
