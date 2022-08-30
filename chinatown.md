@@ -6,6 +6,8 @@ image: /assets/images/chinatown-raining.jpg
 
 _Seeing Providence Chinatown_ is an in-progress project using archival photography and maps to build an immersive digital 3D model of historic downtown Providence Chinatown, building on the work of the [RI Chinese History project](https://richinesehistory.com) by Angela Yuanyuan Feng, Julieanne Fontana, John Eng-Wong and others. The process of reconstructing the neighborhood’s building exteriors and streets will weave together and interlink the relatively few images remaining of this once-vibrant enclave, of which almost no trace remains today.
 
+## September AS220 Show
+
 This project will be on view at the [AS220 Aborn Gallery](https://as220.org/galleries/) from Sept 8-24th, Thursday – Saturdays from 12 – 5 PM at 95 Empire Street, Providence, RI 02903; the opening will be 5-7pm on September 10th.
 
 ![A 3D render of the facades of the Empire Theater and a tailor shop from an old colorized photo, mapped onto rough 3D boxes in a reconstructed virtual Chinatown.](https://user-images.githubusercontent.com/24359/162981396-1a6ea9db-f0eb-434e-a7bc-ec043028edf0.png)
@@ -36,9 +38,9 @@ By contrast, my goal is to use the process of reconstruction as one of healing a
 
 _Relational reconstruction_ focuses on the potential for a more multifaceted remembrance and correction, through relationships between the experiences partially represented in the archive, and today’s parallel experiences in minoritized groups. It acknowledges the limitations of the archive as a means of accessing erased moments, experiences, and spaces. In this approach, I seek to correct erasure, but through an imaginative, immersive, social, and creative approach, which encloses a gentle and nourishing space rather than enclosing an artifact of history in a diorama at a museum or on a plaque. This process restructures the archive as a set of selective clues, shaped by the active intent to obscure ancestral knowledges best expressed in ways least likely to be historically preserved – emotional tone, color, sound and smell, private moments and ephemera of personal relationships, hopes, aspirations, things unsaid. 
 
-_This work is supported by the [RI Council for the Humanities](https://rihumanities.org/), [Movement Education Outdoors](https://www.instagram.com/movementeducationoutdoors/), and [AS220](https://as220.org)._
+_This work is supported by the [Providence Department of Art, Culture, and Tourism](https://artculturetourism.com/), the [RI Council for the Humanities](https://rihumanities.org/), [Movement Education Outdoors](https://www.instagram.com/movementeducationoutdoors/), and [AS220](https://as220.org)._
 
-![RICH logo](https://user-images.githubusercontent.com/24359/162987739-53730909-b5f6-4b53-a13a-c450b0b82f90.png)
+![act_blue](https://user-images.githubusercontent.com/24359/187319583-3492185f-16e7-41f9-871e-4c6334743d9b.png) ![RICH logo](https://user-images.githubusercontent.com/24359/162987739-53730909-b5f6-4b53-a13a-c450b0b82f90.png)
 
 <!--
 
