@@ -6,4 +6,5 @@ tasks:
   - init: npm install && npm run build && bundle install
     command: npm run start
 
-
+image:
+  file: .gitpod.Dockerfile
