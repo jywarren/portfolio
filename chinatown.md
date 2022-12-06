@@ -10,6 +10,14 @@ _Seeing Providence Chinatown_ is an in-progress project using archival photograp
 
 This project will be on view at the [AS220 Aborn Gallery](https://as220.org/galleries/) from Sept 8-24th, Thursday – Saturdays from 12 – 5 PM at 95 Empire Street, Providence, RI 02903; the opening will be 5-7pm on September 10th.
 
+## Interest form
+
+I’m beginning to reach out to folks about – slowly – beginning a reconstruction project in another place. Last week I spent time looking for records in Truckee, CA, New Orleans, Deadwood, SD, and other places.
+
+I’m interested in connecting with descendants of these communities, as well as with Asian American artists, historians, and community members interested in remembrance related to these places. 
+
+[Click here](https://forms.gle/WokrrQoymQy9eXH8A) if you'd like to connect.
+
 ![A 3D render of the facades of the Empire Theater and a tailor shop from an old colorized photo, mapped onto rough 3D boxes in a reconstructed virtual Chinatown.](https://user-images.githubusercontent.com/24359/162981396-1a6ea9db-f0eb-434e-a7bc-ec043028edf0.png)
 
 The model will bring to life historical records of this forgotten neighborhood, enabling people to "overlay" the model onto today’s streetscape using AR/VR, and to gather within the reconstruction in an online environment. This will serve as a space for collective creative practice for local Asian-American communities – not only as a venue for exhibitions, events, and as a permanent virtual home for scholarship on Providence’s Chinatown and local Asian-American history, but also as a vehicle for the re-interpretation and reclaiming of the archive as a space for lived practice and ancestral knowledge, rather than a museum exhibit of a vanished society – a relational reconstruction. 
