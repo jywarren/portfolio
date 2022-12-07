@@ -4,7 +4,9 @@ title: Seeing Providence Chinatown
 image: /assets/images/chinatown-raining.jpg
 ---
 
-_Seeing Providence Chinatown_ is an in-progress project using archival photography and maps to build an immersive digital 3D model of historic downtown Providence Chinatown, building on the work of the [RI Chinese History project](https://richinesehistory.com) by Angela Yuanyuan Feng, Julieanne Fontana, John Eng-Wong and others. The process of reconstructing the neighborhood’s building exteriors and streets will weave together and interlink the relatively few images remaining of this once-vibrant enclave, of which almost no trace remains today.
+_Seeing Providence Chinatown_ is an in-progress project using archival photography and maps to build an immersive digital 3D model of historic downtown Providence Chinatown, building on the work of the [RI Chinese History project](https://richinesehistory.com) by Angela Yuanyuan Feng, Julieanne Fontana, John Eng-Wong and others. The process of reconstructing the neighborhood’s building exteriors and streets will weave together and interlink the relatively few images remaining of this once-vibrant enclave, of which almost no trace remains today. 
+
+Hear a radio interview about the project from [The Public's Radio here](https://thepublicsradio.org/episode/with-seeing-providence-chinatown-jeffrey-yoo-warren-creates-a-virtual-neighborhood-for-a-forgotten-enclave).
 
 ## September AS220 Show
 
