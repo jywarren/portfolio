@@ -8,6 +8,8 @@ My name is Jeffrey Yoo Warren, and I am an artist, community scientist, illustra
 
 I collaboratively create community science projects which decenter dominant culture in environmental knowledge production. I host participatory projects, run workshops and give talks on cultural making, collaborative practice, community science, and open hardware. I am also a contributor to over [150 open source code projects](https://github.com/jywarren/), many of which I started and several of whose communities I lead. I'm  an <a href="/inks/2019-01-01-illustration/">illustrator</a> as well as a mentor of programs that support diversity, equity, and inclusion in software engineering, and am Lead Code Community Coordinator at Public Lab as part of [this work](https://code.publiclab.org). _(more on this coming soon)_
 
+In 2023, I became the Library of Congress [Innovator in Residence](https://newsroom.loc.gov/news/2023-innovator-in-residence-rebuilds-and-revisits-lost-communities/s/33e910fb-0ea2-4676-ba4c-0ce15e664735) for my ongoing work on [Seeing Providence Chinatown](/chinatown) and the broader project, [Seeing Lost Enclaves: Relational reconstructions of erased historic neighborhoods of color](https://jywarren.github.io/seeing-lost-enclaves/).
+
 I am a member of [AS220 Industries](https://industries.as220.org) and served three terms on the [Open Source Hardware Association](https://oshwa.org) board since 2014. I have an MS from MIT and a BA in Architecture from Yale University, and spent much of that time working with artist/technologist Natalie Jeremijenko, building robotic dogs.
 
 ### Public Lab
