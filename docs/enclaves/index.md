@@ -30,9 +30,17 @@ _Ann Chen<br />Feb 17, 2022_
 
 <div class="item">
 
-[![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*CVVzZo4tAhoxjUfx_lucpA.jpeg)](2022/12/5)
-## [Beach, Korea, 1970s](2022/12/5)
+[![](images/soyoung-kim.jpg)](soyoung-kim)
+## [Beach, Korea, 1970s](soyoung-kim)
 _Soyoung Kim<br />Dec 5, 2022_
+
+</div>
+
+<div class="item">
+
+[![](images/dri-chiu-tattersfield.png)](dri-chiu-tattersfield)
+## [Eastern Taiwan, 19xxs](dri-chiu-tattersfield)
+_Dri Chiu Tattersfield<br />Mar 26, 2022_
 
 </div>
 
