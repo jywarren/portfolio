@@ -22,8 +22,8 @@ _Jeffrey Yoo Warren<br />Apr 1, 2023_
 
 <div class="item">
 
-[![](images/ann-chen.png)](2022/2/17)
-## [Alleys, Taipei, 1980s](2022/2/17)
+[![](images/ann-chen.png)](ann-chen)
+## [Alleys, Taipei, 1980s](ann-chen)
 _Ann Chen<br />Feb 17, 2022_
 
 </div>
@@ -39,7 +39,7 @@ _Soyoung Kim<br />Dec 5, 2022_
 <div class="item">
 
 [![](images/dri-chiu-tattersfield.png)](dri-chiu-tattersfield)
-## [Eastern Taiwan, 19xxs](dri-chiu-tattersfield)
+## [Eastern Taiwan, 1990s](dri-chiu-tattersfield)
 _Dri Chiu Tattersfield<br />Mar 26, 2022_
 
 </div>
