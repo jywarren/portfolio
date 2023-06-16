@@ -8,6 +8,8 @@ The photo in my memory enclave project is a true treasure. It features a snapsho
 
 But you know what? I'm not content to let this powerful memory live on with bad undertones and the tragedy of Jim Crow plastered all over it. Oh no! I wanted to recreate the joy of that day at the beach and show my family as a normal, happy group.
 
+<img src="images/brandi-kinard-4.png" style="max-width:900px;" />
+
 <center><p>
 
 [&laquo; Back to gallery](#)

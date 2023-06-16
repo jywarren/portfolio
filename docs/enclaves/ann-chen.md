@@ -8,6 +8,8 @@ _[Ann Chen](https://annhchen.com/)_
 
 <img src="images/ann-chen-2.jpg" style="max-width:900px;" />
 
+<img src="images/ann-chen-4.jpg" style="max-width:900px;" />
+
 
 <center><p>
 
