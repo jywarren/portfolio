@@ -29,6 +29,6 @@ author: Jeffrey Yoo Warren
 
 ----
 
-I'm transitioning away from Linktree since it doesn't load in some places, but in case I missed anything, here's my linktree page!
+I'm transitioning away from Linktree since it doesn't load in some places, but in case I missed anything, here's my linktree page! <a href="https://linktr.ee/unterbahn/">https://linktr.ee/unterbahn/</a>
 
 <iframe style="border:none;width:100%;height:2000px;" src="https://linktr.ee/unterbahn/"></iframe>
