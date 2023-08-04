@@ -8,6 +8,7 @@ author: Jeffrey Yoo Warren
 ---
 
 - [Relational Reconstruction Modeling workshop signup](http://bit.ly/rmodeling)
+- [Frame making workshop signup](https://as220.org/community-studios)
 - [Relational research circle interest form](https://forms.gle/hg7q5dnbVfg1ApZHA)
 - [Seeing Providence Chinatown (talk) @ Museumverse, Princeton](https://youtu.be/tczrAHUi4dg)
 - [Seeing Lost Enclaves/Relational Reconstruction interest form](https://forms.gle/WokrrQoymQy9eXH8A)
