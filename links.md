@@ -7,18 +7,18 @@ sitemap: false
 author: Jeffrey Yoo Warren
 ---
 
-- [Relational Reconstruction Modeling workshop signup](http://bit.ly/rmodeling)
-- [Frame making workshop signup](https://as220.org/community-studios)
+- [🐯 🪁📖 🖼️ & more in my shop](https://unterbahn.square.site/)
 - [Relational research circle interest form](https://forms.gle/hg7q5dnbVfg1ApZHA)
+
+----
+
 - [Seeing Providence Chinatown (talk) @ Museumverse, Princeton](https://youtu.be/tczrAHUi4dg)
 - [Seeing Lost Enclaves/Relational Reconstruction interest form](https://forms.gle/WokrrQoymQy9eXH8A)
 - [Mailing list](https://unterbahn.com/list/)
 - [Seeing Providence Chinatown](https://unterbahn.com/chinatown)
 - [Seeing Providence Chinatown print](https://unterbahn.square.site/product/seeing-providence-chinatown-print/13)
 - [Relational Micro-archaeology of Pollens](https://link.medium.com/7i9KKe34Rtb)
-- [🐯 🪁📖 🖼️ & more in my shop](https://unterbahn.square.site/)
 - [Jeffrey Yoo Warren - website/portfolio](https://unterbahn.com/)
-- [AS220 Artists Calendar 📆](http://artandeditions.as220.org/shop/as220calendar)
 - [p5.js sketch posterizer](https://editor.p5js.org/jywarren/full/-H7dtFLyq)
 - [Uncovering the Asian American Old West](https://www.yesmagazine.org/social-justice/2021/05/13/asian-american-old-west)
 - [Alchemy, the n-word, Borat, and anti-Asian hate](https://unterbahn.medium.com/alchemy-the-n-word-borat-and-anti-asian-hate-d4eae08c2d04)
@@ -27,6 +27,8 @@ author: Jeffrey Yoo Warren
 - [riso@home](https://github.com/jywarren/risoAtHome/)
 - [Microkaleidoscope](https://jywarren.github.io/microkaleidoscope)
 - [Thoughts on a model for community data enclosure](https://publiclab.org/n/25177)
+
+- [Frame making workshop signup](https://as220.org/community-studios)
 
 ----
 
