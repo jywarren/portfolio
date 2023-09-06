@@ -7,7 +7,8 @@ sitemap: false
 author: Jeffrey Yoo Warren
 ---
 
-- [Memory Cart: Tigers & Portals signup](https://www.eventbrite.com/e/memory-cart-tigers-portals-tickets-712025065137)
+- [Register for Sept 19: A virtual visit to Providence's Chinatown in 1914](https://loc.zoomgov.com/meeting/register/vJItce2uqDorE1v78RhU6FK5ibKghnMYdwQ)
+- Memory Cart: Tigers & Portals is full! Another event coming soon.
 
 ----
 
