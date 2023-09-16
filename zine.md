@@ -1,9 +1,15 @@
 ---
 layout: page
-title: Zine
+title: "Zine"
+date: 2023-09-16
+description: Links and info about Providence Chinatown zine
+sitemap: false
+author: Jeffrey Yoo Warren
 ---
 
 # Providence Chinatown, 1914: an enfolded memory path
+
+By Jeffrey Yoo Warren & Dri Chiu Tattersfield
 
 Hello! Instructions and additional information on this zine are available on this page.
 
