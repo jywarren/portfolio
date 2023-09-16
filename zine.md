@@ -1,3 +1,8 @@
+---
+layout: page
+title: Zine
+---
+
 # Providence Chinatown, 1914: an enfolded memory path
 
 Hello! Instructions and additional information on this zine are available on this page.
