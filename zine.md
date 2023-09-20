@@ -41,7 +41,7 @@ Hello! Instructions and additional information on this zine are available on thi
 .youtube-video-container::after {
   display: block;
   content: "";
-  padding-top: 56.25%;
+/*  padding-top: 56.25%; */
 }
 
 .youtube-video-container iframe {

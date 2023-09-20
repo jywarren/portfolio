@@ -7,7 +7,8 @@ sitemap: false
 author: Jeffrey Yoo Warren
 ---
 
-- [Register for Sept 19: A virtual visit to Providence's Chinatown in 1914](https://loc.zoomgov.com/meeting/register/vJItce2uqDorE1v78RhU6FK5ibKghnMYdwQ)
+- Vote for KAAC at [Gold Futures Challenge](https://goldfutureschallenge.org/vote/)
+- Register for Sept 19: A virtual visit to Providence's Chinatown in 1914 (past; video coming soon)
 - Memory Cart: Tigers & Portals is full! Another event coming soon.
 
 ----
