@@ -10,7 +10,7 @@ To access and experience the portal space we created a mask that became a memory
 
 <img src="images/jasmine-hwang-1.jpg" style="max-width:900px;" />
 
-A mask portal inspired by Pye-baek(폐백), a traditional wedding ceremony in Korea by imitating the form of Samo(사모) with cardboard and the color of Jokduri(족두리) with Korean snack wrappers. 
+A mask portal inspired by Pye-baek (폐백), a traditional wedding ceremony in Korea by imitating the form of Samo (사모) with cardboard and the color of Jokduri (족두리) with Korean snack wrappers. 
 Memory Enclaves
 
 
