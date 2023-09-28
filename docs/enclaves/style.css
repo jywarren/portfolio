@@ -48,3 +48,9 @@ a,
   text-decoration: underline;
 }
 
+.md-pages img {
+  margin: auto;
+  margin-bottom: 20px;
+  display: block;
+}
+

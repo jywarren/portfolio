@@ -1,6 +1,6 @@
 <img style="float:left;" alt="a video of a blurry black and white photo of my mom playing in the snow in Seoul, and a virtual reconstruction of the yard, with snow falling, smoke in the distance" src="images/empty.png" />
 
-# American Beach, Jacksonville, FL, 19xxs
+# American Beach, Jacksonville, FL, 1960s
 
 _[Brandi Kinard](https://brandikinard.com/)_
 
