@@ -9,7 +9,7 @@ author: Jeffrey Yoo Warren
 
 - [Providence Chinatown zine](https://unterbahn.square.site/product/chinatown-zine/19)
 - [Tiger Mountain Hanok zine](https://unterbahn.square.site/)
-- Register for Sept 19: A virtual visit to Providence's Chinatown in 1914 (past; video coming soon)
+- [Video for Sept 19: A virtual visit to Providence's Chinatown in 1914](https://youtube.com/watch?v=g-u0cWcaUik&list=PL5j6XCkZ2C6zH7XDzmQOp8QPmmQjL_meD&index=7)
 - Memory Cart: Tigers & Portals is full! Another event coming soon.
 
 ----
