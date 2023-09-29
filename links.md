@@ -7,8 +7,8 @@ sitemap: false
 author: Jeffrey Yoo Warren
 ---
 
-- Vote for KAAC at [Gold Futures Challenge](https://goldfutureschallenge.org/vote/)
 - [Providence Chinatown zine](https://unterbahn.square.site/product/chinatown-zine/19)
+- [Tiger Mountain Hanok zine](https://unterbahn.square.site/)
 - Register for Sept 19: A virtual visit to Providence's Chinatown in 1914 (past; video coming soon)
 - Memory Cart: Tigers & Portals is full! Another event coming soon.
 
