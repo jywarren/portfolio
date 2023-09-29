@@ -14,7 +14,7 @@ Read more about the broader project at [Seeing Providence Chinatown](/chinatown)
 
 <div class="item">
 
-[![jeffrey-yoo-warren](https://unterbahn.com/assets/images/enclaves-mom.gif)](jeffrey-yoo-warren)
+[![a video of a blurry black and white photo of my mom playing in the snow in Seoul, and a virtual reconstruction of the yard, with snow falling, smoke in the distance](https://unterbahn.com/assets/images/enclaves-mom.gif)](jeffrey-yoo-warren)
 ## [Mapo-gu, Seoul, 1970s](2023/4/1)
 _Jeffrey Yoo Warren<br />Apr 1, 2023_
 
@@ -22,7 +22,7 @@ _Jeffrey Yoo Warren<br />Apr 1, 2023_
 
 <div class="item">
 
-[![](images/ann-chen.png)](ann-chen)
+[![A long, narrow brick alley with tidy concrete floor stretches into the distance, foliage growing over the tops of the walls, and three large robins looking away.](images/ann-chen.png)](ann-chen)
 ## [Alleys, Taipei, 1980s](ann-chen)
 _Ann Chen<br />Feb 17, 2022_
 
@@ -30,8 +30,8 @@ _Ann Chen<br />Feb 17, 2022_
 
 <div class="item">
 
-[![](images/soyoung-kim.jpg)](soyoung-kim)
-## [Beach, Korea, 1970s](soyoung-kim)
+[![A group of laughing kids with shiny black hair and a man, all in swimsuits, playing with buckets in the sand on a wide bright beach, green hills across the bay beyond.](images/soyoung-kim.jpg)](soyoung-l-kim)
+## [Beach, Korea, 1970s](soyoung-l-kim)
 _Soyoung Kim<br />Dec 5, 2022_
 
 </div>
@@ -39,7 +39,7 @@ _Soyoung Kim<br />Dec 5, 2022_
 <!--
 <div class="item">
 
-[![](images/brandi-kinard.png)](brandi-kinard)
+[![A Black woman and child in swimsuits standing on a sandy beach in warm orangish light, sea green waves sloshing in the background. Footprints and a wooden beach platform are visible along with distant swimmers.](images/brandi-kinard.png)](brandi-kinard)
 ## [American Beach, Jacksonville, FL, 1960s](brandi-kinard)
 _Brandi Kinard<br />Mar 26, 2022_
 
@@ -48,7 +48,7 @@ _Brandi Kinard<br />Mar 26, 2022_
 
 <div class="item">
 
-[![](images/dri-chiu-tattersfield.png)](dri-chiu-tattersfield)
+[![A Taiwanese woman with long curly black hair, in black pants, shoes, and jacket, and white socks and collared shirt, sits cross-legged on a concrete block at the edge of a mountain road overlooking a distant wooded mountainside.](images/dri-chiu-tattersfield.png)](dri-chiu-tattersfield)
 ## [Eastern Taiwan, 1990s](dri-chiu-tattersfield)
 _Dri Chiu Tattersfield<br />Mar 26, 2022_
 
@@ -56,7 +56,7 @@ _Dri Chiu Tattersfield<br />Mar 26, 2022_
 
 <div class="item">
 
-[![](images/jasmine-hwang.jpg)](jasmine-hwang)
+[![A woman with long hair and stylish loose collared shirts wearing an intricate L-shaped boxy crown of cardboard covered in brightly colored Korean snack packaging, and pink sequined tassels hanging in front. Beyond, a dark room crowded with masked people.](images/jasmine-hwang-1.jpg)](jasmine-hwang)
 ## [Busan, 1950s](jasmine-hwang)
 _Jasmine Hwang<br />Dec 5, 2022_
 
@@ -66,7 +66,7 @@ _Jasmine Hwang<br />Dec 5, 2022_
 
 <div class="item">
 
-[![](images/jean-ni.jpg)](jean-ni)
+[![Two white-clad people by a tree in the distance across a broad round grassy hilltop, with an enormous grassy plain beyond, a herd of goats visible in the distance.](images/jean-ni.jpg)](jean-ni)
 ## [Mongolian Steppe, 1920s](jean-ni)
 _Jean Ni<br />Mar 26, 2022_
 
@@ -74,7 +74,7 @@ _Jean Ni<br />Mar 26, 2022_
 
 <div class="item">
 
-[![](images/jean-ni.jpg)](olivia-ong-evans)
+[![A girl with a pony tail and jean shorts steps up to a candle- and fruit-lined altar with a piece of incense, encouraged by an older woman with shorter hair in a floral dress.](images/olivia-ong-evans.jpg)](olivia-ong-evans)
 ## [Bogor, Indonesia, 2008](olivia-ong-evans)
 _Olivia Ong Evans<br />July 20, 2022_
 

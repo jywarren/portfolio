@@ -1,4 +1,4 @@
-<img style="float:left;" alt="a video of a blurry black and white photo of my mom playing in the snow in Seoul, and a virtual reconstruction of the yard, with snow falling, smoke in the distance" src="images/empty.png" />
+<img style="float:left;" alt="A woman with long curly black hair, in black pants, shoes, and jacket, and white socks and collared shirt, sits cross-legged on a concrete block at the edge of a mountain road overlooking a distant wooded mountainside." src="images/empty.png" />
 
 # Eastern Taiwan, 1990s
 

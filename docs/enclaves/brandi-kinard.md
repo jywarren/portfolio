@@ -1,4 +1,4 @@
-<img style="float:left;" alt="a video of a blurry black and white photo of my mom playing in the snow in Seoul, and a virtual reconstruction of the yard, with snow falling, smoke in the distance" src="images/empty.png" />
+<img style="float:left;" alt="A Black woman and child in swimsuits standing on a sandy beach in warm orangish light, sea green waves sloshing in the background. Footprints and a wooden beach platform are visible along with distant swimmers." src="images/empty.png" />
 
 # American Beach, Jacksonville, FL, 1960s
 
@@ -8,7 +8,7 @@ The photo in my memory enclave project is a true treasure. It features a snapsho
 
 But you know what? I'm not content to let this powerful memory live on with bad undertones and the tragedy of Jim Crow plastered all over it. Oh no! I wanted to recreate the joy of that day at the beach and show my family as a normal, happy group.
 
-<img src="images/brandi-kinard-4.png" style="max-width:900px;" />
+<img alt="Another view of the beach from further away, more people seated under umbrellas to the right side." src="images/brandi-kinard-4.png" style="max-width:900px;" />
 
 <center><p>
 

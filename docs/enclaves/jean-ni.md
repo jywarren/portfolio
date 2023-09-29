@@ -1,4 +1,4 @@
-<img style="float:left;" alt="" src="images/empty.png" />
+<img style="float:left;" alt="Two white-clad people by a tree in the distance across a broad round grassy hilltop, with an enormous grassy plain beyond, a herd of goats visible in the distance." src="images/empty.png" />
 
 # Mongolian Steppe, 1920s
 
@@ -10,7 +10,7 @@ I don’t have any photos of my grandmother from her time spent in Mongolia befo
 
 To conjure these ancestral memories I explored a simple, intimate embodiment of place using my own childhood recollections of a visit to Hailar paired with local visual textures and familiar sounds of the Steppe.
 
-<img src="images/jean-ni-1.jpg" style="max-width:900px;" />
+<img alt="The same scene from further back, showing the edges of the virtual reconstruction and the photos used to collage the scene arrayed around a grassy square." src="images/jean-ni-1.jpg" style="max-width:900px;" />
 
 <center><p>
 

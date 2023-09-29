@@ -12,7 +12,7 @@ To craft this ancestral memory enclave, I sat with my mother for almost an hour,
 
 This past fall, I visited Seoul for the first time in 20 years, traveling with my mom. Walking in the neighborhood, looking around for this house, a woman saw us and offered us a persimmon. She then led us to the home she’d lived in since she was a little girl, which turned out to be my mother’s house. Here’s a photo of us in the same garden as the 1970s photograph.
 
-<img src="images/mapo-gu.png" style="max-width:600px;" />
+<img alt="My mom and I - a tall Korean American man with grey hair and glasses, and a 70-year-old Korean Americna woman with short white hair, in a garden with rocks and trees behind. Mom is carrying a persimmon." src="images/mapo-gu.png" style="max-width:600px;" />
 
 _[Jeffrey Yoo Warren](https://unterbahn.com) is an artist educator based in Providence, RI, on Naragansett and Wampanoag land, who lives in the neighborhood which was Providence's Chinatown from 1904-1914._ 
 
