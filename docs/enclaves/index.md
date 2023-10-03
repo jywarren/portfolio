@@ -72,6 +72,8 @@ _Jean Ni<br />Mar 26, 2022_
 
 </div>
 
+-->
+
 <div class="item">
 
 [![A girl with a pony tail and jean shorts steps up to a candle- and fruit-lined altar with a piece of incense, encouraged by an older woman with shorter hair in a floral dress.](images/olivia-ong-evans.jpg)](olivia-ong-evans)
@@ -79,8 +81,6 @@ _Jean Ni<br />Mar 26, 2022_
 _Olivia Ong Evans<br />July 20, 2022_
 
 </div>
-
--->
 
 </div>
 
