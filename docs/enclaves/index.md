@@ -62,8 +62,6 @@ _Jasmine Hwang<br />Dec 5, 2022_
 
 </div>
 
-<!--
-
 <div class="item">
 
 [![Two white-clad people by a tree in the distance across a broad round grassy hilltop, with an enormous grassy plain beyond, a herd of goats visible in the distance.](images/jean-ni.jpg)](jean-ni)
@@ -72,7 +70,14 @@ _Jean Ni<br />Mar 26, 2022_
 
 </div>
 
--->
+<div class="item">
+
+[![A small terra cotta roofed home with plaster or concrete walls and a small red-iron barred window and door. The doorway has Chinese characters written around it on paper, and sparse rows of plants lay beyond the house.](images/caroline-hu.png)](caroline-hu)
+## [Xiantao, China, 1960s](caroline-hu)
+_Caroline Hu<br />June 8, 2023_
+
+</div>
+
 
 <div class="item">
 
