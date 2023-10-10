@@ -36,7 +36,6 @@ _Soyoung Kim<br />Dec 5, 2022_
 
 </div>
 
-<!--
 <div class="item">
 
 [![A Black woman and child in swimsuits standing on a sandy beach in warm orangish light, sea green waves sloshing in the background. Footprints and a wooden beach platform are visible along with distant swimmers.](images/brandi-kinard.png)](brandi-kinard)
@@ -44,7 +43,6 @@ _Soyoung Kim<br />Dec 5, 2022_
 _Brandi Kinard<br />Mar 26, 2022_
 
 </div>
--->
 
 <div class="item">
 
@@ -62,6 +60,7 @@ _Jasmine Hwang<br />Dec 5, 2022_
 
 </div>
 
+<!--
 <div class="item">
 
 [![Two white-clad people by a tree in the distance across a broad round grassy hilltop, with an enormous grassy plain beyond, a herd of goats visible in the distance.](images/jean-ni.jpg)](jean-ni)
@@ -69,6 +68,7 @@ _Jasmine Hwang<br />Dec 5, 2022_
 _Jean Ni<br />Mar 26, 2022_
 
 </div>
+-->
 
 <div class="item">
 
