@@ -39,7 +39,7 @@ _Soyoung Kim<br />Dec 5, 2022_
 <div class="item">
 
 [![A Black woman and child in swimsuits standing on a sandy beach in warm orangish light, sea green waves sloshing in the background. Footprints and a wooden beach platform are visible along with distant swimmers.](images/brandi-kinard.png)](brandi-kinard)
-## [American Beach, Jacksonville, FL, 1960s](brandi-kinard)
+## [American Beach, FL, 1960s](brandi-kinard)
 _Brandi Kinard<br />Mar 26, 2022_
 
 </div>
