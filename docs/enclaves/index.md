@@ -86,7 +86,6 @@ _Olivia Ong Evans<br />July 20, 2022_
 
 </div>
 
-<!--
 <div class="item">
 
 [![](images/yutong-lin)](yutong-lin)
@@ -94,7 +93,6 @@ _Olivia Ong Evans<br />July 20, 2022_
 _Yutong Lin<br />July 20, 2022_
 
 </div>
--->
 
 </div>
 
