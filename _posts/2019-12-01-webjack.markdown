@@ -3,7 +3,7 @@ layout: post
 title: "WebJack audio sensor communication"
 date: 2019-12-01
 description: 
-image: https://publiclab.org/system/images/photos/000/023/509/original/IMG_20180207_135242.jpg
+image: /assets/images/webjack.jpg 
 author: Jeffrey Yoo Warren
 tags: 
   - Kits
