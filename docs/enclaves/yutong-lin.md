@@ -1,4 +1,4 @@
-<img style="float:left;" alt="" src="images/empty.png" />
+<img style="float:left;" alt="A virtual collage of a family standing among bamboo stalks in front of three grey abandoned houses interspersed among long grasses. A blue sky peeks by white clouds over the richly brownish red soil as a dog stands among the grass." src="images/empty.png" />
 
 # Phosphorite Mine Site of Buddha Mountain, Kunming, 2019
 
@@ -8,7 +8,7 @@ During a trip to visit my great-grandfather’s grave, the family decided to pas
 
 It was nearly 10 years later when my family visited the place they used to work, they posed in front of the house they had lived in more than a decade ago, smiling in front of it. Not far away from the remains of the falling house, there were few signs of people still living in the neighborhood, along with the giant slogans by Mao to promote the morale of the people.
 
-<img alt="" src="images/yutong-lin.gif" style="max-width:900px;" />
+<img alt="An animated gif walks around the same scene as shown above, revealing how it stands in a dark virtual space with a dark blue dome visible in the distance." src="images/yutong-lin.gif" style="max-width:900px;" />
 
 <center><p>
 

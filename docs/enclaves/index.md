@@ -88,7 +88,7 @@ _Olivia Ong Evans<br />July 20, 2022_
 
 <div class="item">
 
-[![](images/yutong-lin.png)](yutong-lin)
+[![A family stands among bamboo stalks in front of three grey abandoned houses interspersed among long grasses. A blue sky peeks by white clouds over the richly brownish red soil as a dog stands among the grass.](images/yutong-lin.png)](yutong-lin)
 ## [Kunming, 2019](yutong-lin)
 _Yutong Lin<br />July 20, 2022_
 
