@@ -106,7 +106,7 @@ _Yutong Lin<br />July 20, 2022_
 
 .fl {
   display: grid;
-  grid-template-columns: repeat(auto-fill,minmax(400px, auto));
+  grid-template-columns: repeat(auto-fill,minmax(300px, auto));
   gap: 10px;
 }
 .fl > .item {
