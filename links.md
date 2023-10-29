@@ -7,6 +7,8 @@ sitemap: false
 author: Jeffrey Yoo Warren
 ---
 
+- [Personal Histories and Counter-Archives workshop](https://events.brown.edu/bai/event/272584-personal-histories-and-counter-archives) (Nov 6)
+- [Personal Histories and Counter-Archives workshop](https://events.brown.edu/bai/event/272586-personal-histories-and-counter-archives) (Nov 14)
 - [Prints for Palestine](https://printsforpalestine.com)
 - [AS220 workshops](https://as220.org/community-studios)
 - [Providence Chinatown zine](https://unterbahn.square.site/product/chinatown-zine/19)
