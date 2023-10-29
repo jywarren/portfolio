@@ -7,6 +7,7 @@ sitemap: false
 author: Jeffrey Yoo Warren
 ---
 
+- [Prints for Palestine](https://printsforpalestine.com)
 - [AS220 workshops](https://as220.org/community-studios)
 - [Providence Chinatown zine](https://unterbahn.square.site/product/chinatown-zine/19)
 - [Tiger Mountain Hanok zine](https://unterbahn.square.site/)
