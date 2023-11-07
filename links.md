@@ -7,7 +7,7 @@ sitemap: false
 author: Jeffrey Yoo Warren
 ---
 
-- [Personal Histories and Counter-Archives workshop](https://events.brown.edu/bai/event/272584-personal-histories-and-counter-archives) (Nov 6)
+- [Tigers & Portals blog post](https://blogs.loc.gov/thesignal/2023/11/tigers-portals-seeing-lost-enclaves-community-memory-event/)
 - [Personal Histories and Counter-Archives workshop](https://events.brown.edu/bai/event/272586-personal-histories-and-counter-archives) (Nov 14)
 - [Prints for Palestine](https://printsforpalestine.com)
 - [AS220 workshops](https://as220.org/community-studios)
