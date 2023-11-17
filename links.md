@@ -7,14 +7,12 @@ sitemap: false
 author: Jeffrey Yoo Warren
 ---
 
-- [Tigers & Portals blog post](https://blogs.loc.gov/thesignal/2023/11/tigers-portals-seeing-lost-enclaves-community-memory-event/)
-- [Personal Histories and Counter-Archives workshop](https://events.brown.edu/bai/event/272586-personal-histories-and-counter-archives) (Nov 14)
-- [Prints for Palestine](https://printsforpalestine.com)
-- [AS220 workshops](https://as220.org/community-studios)
+- [SFPC Relational Reconstructions class](https://sfpc.study/sessions/winter-24/re-recon)
 - [Providence Chinatown zine](https://unterbahn.square.site/product/chinatown-zine/19)
+- [Tigers & Portals blog post](https://blogs.loc.gov/thesignal/2023/11/tigers-portals-seeing-lost-enclaves-community-memory-event/)
+- [AS220 workshops](https://as220.org/community-studios)
 - [Tiger Mountain Hanok zine](https://unterbahn.square.site/)
 - [Video for Sept 19: A virtual visit to Providence's Chinatown in 1914](https://youtube.com/watch?v=g-u0cWcaUik&list=PL5j6XCkZ2C6zH7XDzmQOp8QPmmQjL_meD&index=7)
-- Memory Cart: Tigers & Portals is full! Another event coming soon.
 
 ----
 
