@@ -39,3 +39,5 @@ Subscribe to get periodic updates about my work, including upcoming events and w
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+
+<iframe src="https://us13.campaign-archive.com/home/?u=5f8785c0994136b315cb597d6&id=2db4a799e0" style="border:none;width:100%;height:1000px;"></iframe>
