@@ -4,17 +4,17 @@ title: About
 image: /assets/images/bio-photo.jpg
 ---
 
-My name is Jeffrey Yoo Warren, and I am an artist, community scientist, illustrator, and researcher in Providence, Rhode Island.
+Jeffrey Yoo Warren (he/him) is a Korean American artist educator, [illustrator](/inks/2019-01-01-illustration/), community scientist and researcher in Providence, RI, whose recent work combines ancestral craft practices and creative work with diasporic memory through virtual collaborative worldbuilding. He has spent years creating collaborative community science projects which decenter dominant culture in environmental knowledge production. Jeff is an educator with Movement Education Outdoors and AS220, and part of the New Old art collective with Aisha Jandosova, hosting art-making and storytelling events with older adults; he is also the 2023 [Innovator in Residence](https://labs.loc.gov/work/experiments/lost-enclaves) at the Library of Congress for my ongoing project [Seeing Lost Enclaves: Relational reconstructions of erased historic neighborhoods of color](https://jywarren.github.io/seeing-lost-enclaves/).
 
-I collaboratively create community science projects which decenter dominant culture in environmental knowledge production. I host participatory projects, run workshops and give talks on cultural making, collaborative practice, community science, and open hardware. I am also a contributor to over [150 open source code projects](https://github.com/jywarren/), many of which I started and several of whose communities I lead. I'm  an <a href="/inks/2019-01-01-illustration/">illustrator</a> as well as a mentor of programs that support diversity, equity, and inclusion in software engineering, and am Lead Code Community Coordinator at Public Lab as part of [this work](https://code.publiclab.org). _(more on this coming soon)_
+His current artistic practice investigates how people build identity and strength through their interactions with artifacts and histories, and the ways that objects can tell stories that people can be part of in the present.
 
-In 2023, I became the Library of Congress [Innovator in Residence](https://newsroom.loc.gov/news/2023-innovator-in-residence-rebuilds-and-revisits-lost-communities/s/33e910fb-0ea2-4676-ba4c-0ce15e664735) for my ongoing work on [Seeing Providence Chinatown](/chinatown) and the broader project, [Seeing Lost Enclaves: Relational reconstructions of erased historic neighborhoods of color](https://jywarren.github.io/seeing-lost-enclaves/).
+* * *
 
-I am a member of [AS220 Industries](https://industries.as220.org) and served three terms on the [Open Source Hardware Association](https://oshwa.org) board since 2014. I have an MS from MIT and a BA in Architecture from Yale University, and spent much of that time working with artist/technologist Natalie Jeremijenko, building robotic dogs.
+I am an instructor at [AS220 Community Studios](https://as220.org/community-studios/) and served three terms on the [Open Source Hardware Association](https://oshwa.org) board since 2014. I have an MS from MIT and a BA in Architecture from Yale University, and spent much of that time working with artist/technologist Natalie Jeremijenko, building robotic dogs.
 
 ### Public Lab
 
-In 2010, I co-founded <a href="https://publiclab.org">Public Lab</a>, a community science network and non-profit dedicated to democratizing science to address environmental issues that affect people. After 10 years as Director of Research, I stepped down at the start of 2020, although I remain involved in Public Lab's code community (see above).
+In 2010, I co-founded <a href="https://publiclab.org">Public Lab</a>, a community science network and non-profit dedicated to democratizing science to address environmental issues that affect people. After 10 years as Director of Research, I stepped down at the start of 2020.
 
 ### Work
 
