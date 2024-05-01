@@ -7,6 +7,7 @@ sitemap: false
 author: Jeffrey Yoo Warren
 ---
 
+- [Hidden Portals](https://libraryofcongress.github.io/seeing-lost-enclaves/portals/)
 
 - [Hidden Portals Maskmaking workshop @ LOC AAPI Family Day](https://bit.ly/locho)
 - [Ancestral Memory Enclaves gallery](https://unterbahn.com/enclaves)
@@ -25,6 +26,8 @@ author: Jeffrey Yoo Warren
 
 ----
 
+- [Reconstructing Histories through Craft and Community with Jeffrey Yoo Warren](https://tangentsbyooa.transistor.fm/s3/11) (interview)
+- [How Did We Get Here? Almost-visions of Providence’s Lost Chinatown](https://files.cargocollective.com/c1819623/2Re-Surfacing--Tracing-Streams-of-Suppressed-Obscured-Razed-Knowledge_spring23_BrownU.pdf), by Mei Zheng
 - [Seeing Providence Chinatown (talk) @ Museumverse, Princeton](https://youtu.be/tczrAHUi4dg)
 - [Seeing Lost Enclaves/Relational Reconstruction interest form](https://forms.gle/WokrrQoymQy9eXH8A)
 - [Mailing list](https://unterbahn.com/list/)
