@@ -7,14 +7,17 @@ sitemap: false
 author: Jeffrey Yoo Warren
 ---
 
-- [Hidden Portals](https://libraryofcongress.github.io/seeing-lost-enclaves/portals/)
+- [Hidden Portals](https://hiddenportals.org)
 
-- [Relational Reconstruction Modeling Workshop](https://as220.org/community-studios)
-
+- [MICROCOSMOS: Microscopes and seeing tiny worlds](https://www.rieea.org/microcosmos-workshop/) June 29th workshop
 
 - [Seeing Lost Enclaves @ Welcome to America's Chinatowns](https://artsandculture.google.com/story/twWx-XP3fx3HCg), by the National Trust for Historic Preservation
-- [Ancestral Memory Enclaves gallery](https://unterbahn.com/enclaves)
+- ([blog post](https://savingplaces.org/stories/chinatown-google-arts-and-culture) & [overview](https://artsandculture.google.com/story/twWx-XP3fx3HCg))
 
+
+
+
+- [Ancestral Memory Enclaves gallery](https://unterbahn.com/enclaves)
 
 - [Providence Chinatown zine](https://unterbahn.square.site/product/chinatown-zine/19)
 - [Tigers & Portals blog post](https://blogs.loc.gov/thesignal/2023/11/tigers-portals-seeing-lost-enclaves-community-memory-event/)
