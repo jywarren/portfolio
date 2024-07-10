@@ -7,14 +7,12 @@ sitemap: false
 author: Jeffrey Yoo Warren
 ---
 
-- [Hidden Portals](https://hiddenportals.org)
+- [Providence Chinatown walking visit](https://ppsri.org/events/seeing-providence-chinatown/) on Sat July 13
 
-- [MICROCOSMOS: Microscopes and seeing tiny worlds](https://www.rieea.org/microcosmos-workshop/) June 29th workshop
+- [Hidden Portals](https://hiddenportals.org)
 
 - [Seeing Lost Enclaves @ Welcome to America's Chinatowns](https://artsandculture.google.com/story/twWx-XP3fx3HCg), by the National Trust for Historic Preservation
 - ([blog post](https://savingplaces.org/stories/chinatown-google-arts-and-culture) & [overview](https://artsandculture.google.com/story/twWx-XP3fx3HCg))
-
-
 
 
 - [Ancestral Memory Enclaves gallery](https://unterbahn.com/enclaves)
