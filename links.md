@@ -7,7 +7,7 @@ sitemap: false
 author: Jeffrey Yoo Warren
 ---
 
-- [Providence Chinatown walking visit](https://ppsri.org/events/seeing-providence-chinatown/) on Sat July 13
+- [AAIFF Hidden Portals talk](https://www.aaiff.org/aaiff47/library-of-congress-hidden-portals) on Sun Aug 4 @ 12pm 
 
 - [Hidden Portals](https://hiddenportals.org)
 
