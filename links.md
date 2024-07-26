@@ -7,7 +7,7 @@ sitemap: false
 author: Jeffrey Yoo Warren
 ---
 
-- [AAIFF Hidden Portals talk](https://www.aaiff.org/aaiff47/library-of-congress-hidden-portals) on Sun Aug 4 @ 12pm 
+- [AAIFF Hidden Portals talk](https://bit.ly/nyctigermasks) on Sun Aug 4 @ 12pm 
 
 - [Hidden Portals](https://hiddenportals.org)
 
