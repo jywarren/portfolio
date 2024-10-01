@@ -55,7 +55,7 @@ _Dri Chiu Tattersfield<br />Mar 26, 2022_
 <div class="item">
 
 [![A long street lined with grey brick buildings, trees in the distance, and people walking along the edge of the road in the distance. A person in loose white clothes looks out of one entryway, under red and yellow signs and a tile roof..](images/diana-pang.png)](https://dianapang.net/work/man-mo)
-## [Man Mo Temple, Hong Kong, 1860s](https://dianapang.net/work/man-mo)
+## [Man Mo Temple, 1860s](https://dianapang.net/work/man-mo)
 _Diana Pang<br />Mar, 2024_
 
 </div>
