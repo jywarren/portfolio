@@ -2,28 +2,26 @@
 # Links
 
 - [Relational Reconstructions SFPC class](https://sfpc.study/sessions/winter-25/relational)
+    - [Blog post from last year's class](https://sfpc.study/blog/reconnecting-together)
+
+----
 
 - [Hidden Portals](https://hiddenportals.org)
-
-- [Seeing Lost Enclaves @ Welcome to America's Chinatowns](https://artsandculture.google.com/story/twWx-XP3fx3HCg), by the National Trust for Historic Preservation
-- ([blog post](https://savingplaces.org/stories/chinatown-google-arts-and-culture) & [overview](https://artsandculture.google.com/story/twWx-XP3fx3HCg))
-
-
 - [Ancestral Memory Enclaves gallery](https://unterbahn.com/enclaves)
-
 - [Providence Chinatown zine](https://unterbahn.square.site/product/chinatown-zine/19)
-- [Tigers & Portals blog post](https://blogs.loc.gov/thesignal/2023/11/tigers-portals-seeing-lost-enclaves-community-memory-event/)
 - [AS220 workshops](https://as220.org/community-studios)
 - [Tiger Mountain Hanok zine](https://unterbahn.square.site/)
-- [Video for Sept 19: A virtual visit to Providence's Chinatown in 1914](https://youtube.com/watch?v=g-u0cWcaUik&list=PL5j6XCkZ2C6zH7XDzmQOp8QPmmQjL_meD&index=7)
 
 ----
 
 - [🐯 🪁📖 🖼️ & more in my shop](https://unterbahn.square.site/)
-- [Relational research circle interest form](https://forms.gle/hg7q5dnbVfg1ApZHA)
 
 ----
 
+- [Seeing Lost Enclaves @ Welcome to America's Chinatowns](https://artsandculture.google.com/story/twWx-XP3fx3HCg), by the National Trust for Historic Preservation
+- ([blog post](https://savingplaces.org/stories/chinatown-google-arts-and-culture) & [overview](https://artsandculture.google.com/story/twWx-XP3fx3HCg))
+- [Tigers & Portals blog post](https://blogs.loc.gov/thesignal/2023/11/tigers-portals-seeing-lost-enclaves-community-memory-event/)
+- [Video for Sept 19: A virtual visit to Providence's Chinatown in 1914](https://youtube.com/watch?v=g-u0cWcaUik&list=PL5j6XCkZ2C6zH7XDzmQOp8QPmmQjL_meD&index=7)
 - [Reconstructing Histories through Craft and Community with Jeffrey Yoo Warren](https://tangentsbyooa.transistor.fm/s3/11) (interview)
 - [How Did We Get Here? Almost-visions of Providence’s Lost Chinatown](https://files.cargocollective.com/c1819623/2Re-Surfacing--Tracing-Streams-of-Suppressed-Obscured-Razed-Knowledge_spring23_BrownU.pdf), by Mei Zheng
 - [Seeing Providence Chinatown (talk) @ Museumverse, Princeton](https://youtu.be/tczrAHUi4dg)
