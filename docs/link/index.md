@@ -1,13 +1,7 @@
----
-layout: page
-title: "Links"
-date: 2022-08-29
-description: Links
-sitemap: false
-author: Jeffrey Yoo Warren
----
 
-- [AAIFF Hidden Portals talk](https://bit.ly/nyctigermasks) on Sun Aug 4 @ 12pm 
+# Links
+
+- [Relational Reconstructions SFPC class](https://sfpc.study/sessions/winter-25/relational)
 
 - [Hidden Portals](https://hiddenportals.org)
 
@@ -55,3 +49,18 @@ author: Jeffrey Yoo Warren
 I'm transitioning away from Linktree since it doesn't load in some places, but in case I missed anything, here's my linktree page! <a href="https://linktr.ee/unterbahn/">https://linktr.ee/unterbahn/</a>
 
 <iframe style="border:none;width:100%;height:2000px;" src="https://linktr.ee/unterbahn/"></iframe>
+
+
+----
+
+<style>
+
+.md-pages a {
+  color: #222;
+}
+
+ul {
+  list-style: disc !important;
+}
+
+</style>
