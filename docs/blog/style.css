@@ -3,7 +3,13 @@ html {
   padding: 0 15vw;
 }
 
+@media only screen and (max-width: 800px) {
+  html {
+  padding: 0 5vw;
+}
+
 body {
+  border-width: 0;
   margin: 0;
   padding: 0;
   max-width: none;
