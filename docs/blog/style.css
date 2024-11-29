@@ -1,0 +1,15 @@
+html {
+  background: #fff;
+  padding: 0 15vw;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  max-width: none;
+  border: 0;
+}
+
+.markdown-css h1 {
+  line-height: 1.3;
+}

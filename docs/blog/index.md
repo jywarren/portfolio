@@ -6,6 +6,13 @@ _Gradually moving my blog here!_
 ----
 
 <div class="fl">
+<div class="item">
+
+[![](../2024/12/pcm.jpg)](2024/12/1)
+## [Collective paper reconstructions at the Portland Chinatown Museum](2024/12/1)
+_December 1, 2024_
+
+</div>
 
 
 <div class="item">
@@ -59,6 +66,13 @@ _Dec 5, 2022_
 
 .fl > .item {
   flex: 1 1 300px;
+  padding-bottom: 20px;
 }
 
+.markdown-css p {
+  margin: 0 0 10px;
+}
+.markdown-css h1 {
+  margin-bottom: 8px;
+}
 </style>
