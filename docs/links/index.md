@@ -6,9 +6,10 @@
 
 ----
 
+- [Reconnecting with China Alley: Maskmaking & Portals signup](https://bit.ly/rechinaalley)
+- [Providence Chinatown zine](https://unterbahn.square.site/product/chinatown-zine/19)
 - [Hidden Portals](https://hiddenportals.org)
 - [Ancestral Memory Enclaves gallery](https://unterbahn.com/enclaves)
-- [Providence Chinatown zine](https://unterbahn.square.site/product/chinatown-zine/19)
 - [AS220 workshops](https://as220.org/community-studios)
 - [Tiger Mountain Hanok zine](https://unterbahn.square.site/)
 
