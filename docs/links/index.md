@@ -1,17 +1,18 @@
 
 # Links
 
-- [Relational Reconstructions SFPC class](https://sfpc.study/sessions/winter-25/relational)
-    - [Blog post from last year's class](https://sfpc.study/blog/reconnecting-together)
+- [Reconnecting with China Alley: Maskmaking & Portals signup](https://bit.ly/rechinaalley)
 
 ----
 
-- [Reconnecting with China Alley: Maskmaking & Portals signup](https://bit.ly/rechinaalley)
 - [Providence Chinatown zine](https://unterbahn.square.site/product/chinatown-zine/19)
 - [Hidden Portals](https://hiddenportals.org)
 - [Ancestral Memory Enclaves gallery](https://unterbahn.com/enclaves)
 - [AS220 workshops](https://as220.org/community-studios)
 - [Tiger Mountain Hanok zine](https://unterbahn.square.site/)
+
+- [Relational Reconstructions SFPC class](https://sfpc.study/sessions/winter-25/relational)
+    - [Blog post from last year's class](https://sfpc.study/blog/reconnecting-together)
 
 ----
 
