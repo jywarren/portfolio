@@ -2,6 +2,7 @@
 # Links
 
 - [Reconnecting with China Alley: Maskmaking & Portals signup](https://bit.ly/rechinaalley)
+- [Paper Portals zine](https://square.link/u/33wHWI1T)
 
 ----
 
