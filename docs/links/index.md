@@ -1,7 +1,7 @@
 
 # Links
 
-- [Reconnecting with China Alley: Maskmaking & Portals signup](https://bit.ly/rechinaalley)
+- [Han catalogue pre-order](https://store.kaacollective.com/product/pre-order-han-catalogue/88?cp=true&sa=true&sbp=false&q=false)
 - [Paper Portals zine](https://square.link/u/33wHWI1T)
 
 ----
