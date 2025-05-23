@@ -1,7 +1,8 @@
 
 # Links
 
-- [June 7 Los Angeles event](https://bit.ly/ccalosangeles)
+- [June 8 Los Angeles jigae making workshop w/ KAAC at GOBI](https://forms.gle/GPYaUxdamvXLVurs9)
+- [June 7 Los Angeles stool-making & events](https://bit.ly/ccalosangeles)
 - [May 31 Hanford China Alley event](https://bit.ly/ccahanford)
 - [Tickets: 5/17 Golden HOF/NY Kimchi KAAC Party](https://resy.com/cities/new-york-ny/venues/golden-hof/events/kaac-artist-meet-greet-2025-05-17?date=2025-04-24&seats=1)
 - [Han catalogue pre-order](https://store.kaacollective.com/product/pre-order-han-catalogue/88?cp=true&sa=true&sbp=false&q=false)
