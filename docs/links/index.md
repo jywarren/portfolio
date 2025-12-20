@@ -1,11 +1,11 @@
 
 # Links
 
-- [Han catalogue pre-order](https://store.kaacollective.com/product/pre-order-han-catalogue/88?cp=true&sa=true&sbp=false&q=false)
-- [Paper Portals zine](https://square.link/u/33wHWI1T)
+- [Oct 12 Sacramento jigae making workshop w/ Steph Rue](https://bit.ly/jigaesa)
 
 ----
 
+- [Paper Portals zine](https://square.link/u/33wHWI1T)
 - [Providence Chinatown zine](https://unterbahn.square.site/product/chinatown-zine/19)
 - [Hidden Portals](https://hiddenportals.org)
 - [Ancestral Memory Enclaves gallery](https://unterbahn.com/enclaves)
