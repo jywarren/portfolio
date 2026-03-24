@@ -1,10 +1,9 @@
 
 # Links
 
-- [Oct 12 Sacramento jigae making workshop w/ Steph Rue](https://bit.ly/jigaesa)
-
 ----
 
+- [Horangi banchan plates](https://square.link/u/dN7fhUeG)
 - [Paper Portals zine](https://square.link/u/33wHWI1T)
 - [Providence Chinatown zine](https://unterbahn.square.site/product/chinatown-zine/19)
 - [Hidden Portals](https://hiddenportals.org)
