@@ -1,7 +1,7 @@
 
 # Links
 
-- [Jigae workshop May 9 in Los Angeles](https://forms.gle/PLhigMnXyL3S9C4c8)
+- [Jigae workshop Sept 13 in Almaty](https://forms.gle/BLuybsdXCuGokD6n9)
 
 ----
 
