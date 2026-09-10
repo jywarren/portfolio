@@ -1,0 +1,43 @@
+html {
+  background: #fff;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  max-width: none;
+  border: 0;
+}
+
+body,
+.markdown-css {
+  font-family: Lora, serif;
+}
+
+header a {
+  padding: 20px 4px;
+  color: #000;
+  text-decoration: none;
+}
+
+header .links {
+  padding: 20px;
+  background: rgb(255, 255, 255, 0.4);
+}
+
+.md-pages {
+  padding: 40px;
+}
+
+a,
+.md-pages a {
+  text-decoration: underline;
+}
+
+.md-pages img {
+  margin: auto;
+  margin-bottom: 20px;
+  display: block;
+}
+
